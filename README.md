@@ -1,6 +1,6 @@
 # FinCEN_SARsData
 
-This is a work-in-progress. This repository tries to aggregate all the publicly available FinCEN (http://www.fincen.gov) data on 
+This is a work-in-progress. This repository tries to aggregate all the publicly available FinCEN (http://www.fincen.gov) data on suspicious financial activity in one, more accessible place.
 
 ## Data
 

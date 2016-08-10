@@ -1,12 +1,12 @@
-"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument"
-"2012","May","Nevada","Elko County, NV","Casino/Card Club - State Licensed Casino","Minimal Gaming with Large Transactions","IRS","Customer","Credit Card","Other"
-"2012","April","Indiana","Vanderburgh County, IN","Casino/Card Club - State Licensed Casino","Suspicious Use of Counter Checks or Markers","IRS","Customer","Other","U.S. Currency"
-"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Credit/Debit Card","IRS","Customer","Debit Card","Personal/Business Check"
-"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Minimal Gaming with Large Transactions","IRS","Customer","Debit Card","Personal/Business Check"
-"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Transaction with No Apparent Economic, Business, or Lawful Purpose","IRS","Customer","Debit Card","Personal/Business Check"
-"2012","July","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Credit/Debit Card","IRS","Customer","Credit Card","U.S. Currency"
-"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Alters Transaction to Avoid Bsa Recordkeeping Requirement","IRS","Customer","Credit Card","U.S. Currency"
-"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Credit/Debit Card","IRS","Customer","Credit Card","U.S. Currency"
-"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Minimal Gaming with Large Transactions","IRS","Customer","Credit Card","U.S. Currency"
-"2012","August","Washington","Kitsap County, WA","Casino/Card Club - Tribal Authorized Casino","Credit/Debit Card","IRS","Customer","Credit Card","Personal/Business Check"
-"2012","December","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Other Identification Documentation","IRS","Customer","Credit Card","U.S. Currency"
+"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument","Count"
+"2012","May","Nevada","Elko County, NV","Casino/Card Club - State Licensed Casino","Minimal Gaming with Large Transactions","IRS","Customer","Credit Card","Other",1
+"2012","April","Indiana","Vanderburgh County, IN","Casino/Card Club - State Licensed Casino","Suspicious Use of Counter Checks or Markers","IRS","Customer","Other","U.S. Currency",1
+"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Credit/Debit Card","IRS","Customer","Debit Card","Personal/Business Check",1
+"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Minimal Gaming with Large Transactions","IRS","Customer","Debit Card","Personal/Business Check",1
+"2012","June","California","San Diego County, CA","Casino/Card Club - Tribal Authorized Casino","Transaction with No Apparent Economic, Business, or Lawful Purpose","IRS","Customer","Debit Card","Personal/Business Check",1
+"2012","July","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Credit/Debit Card","IRS","Customer","Credit Card","U.S. Currency",1
+"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Alters Transaction to Avoid Bsa Recordkeeping Requirement","IRS","Customer","Credit Card","U.S. Currency",1
+"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Credit/Debit Card","IRS","Customer","Credit Card","U.S. Currency",4
+"2012","August","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Minimal Gaming with Large Transactions","IRS","Customer","Credit Card","U.S. Currency",3
+"2012","August","Washington","Kitsap County, WA","Casino/Card Club - Tribal Authorized Casino","Credit/Debit Card","IRS","Customer","Credit Card","Personal/Business Check",1
+"2012","December","Indiana","Harrison County, IN","Casino/Card Club - State Licensed Casino","Other Identification Documentation","IRS","Customer","Credit Card","U.S. Currency",1

@@ -1,412 +1,412 @@
-"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument"
-"2012","May","New York","New York County, NY","Securities/Futures","Bribery or Gratuity","SEC","Customer","Stocks","Other"
-"2012","May","New York","New York County, NY","Securities/Futures","Insider Trading","SEC","Customer","Stocks","Other"
-"2012","May","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Stocks","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Bonds/Notes","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Bonds/Notes","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Bonds/Notes","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Other"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Bonds/Notes","Other"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Other Money Laundering","CFTC","Customer","Forex Transactions","Other"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Other"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Other"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","April","Georgia","Houston County, GA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","April","Massachusetts","Suffolk County, MA","Securities/Futures","Check","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","April","Massachusetts","Suffolk County, MA","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","April","Virginia","Chesterfield County, VA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","April","Virginia","Chesterfield County, VA","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","May","California","Los Angeles County, CA","Securities/Futures","Check","SEC","No Relationship to Institution","Stocks","Personal/Business Check"
-"2012","May","California","Los Angeles County, CA","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Stocks","Personal/Business Check"
-"2012","May","California","Orange County, CA","Securities/Futures","Multiple Transactions Below Ctr Threshold","SEC","Customer","Debit Card","U.S. Currency"
-"2012","May","California","Orange County, CA","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Debit Card","U.S. Currency"
-"2012","May","Connecticut","Fairfield County, CT","Securities/Futures","Other Money Laundering","SEC","No Relationship to Institution","Other","Foreign Currency"
-"2012","May","New Jersey","Hudson County, NJ","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Insurance/Annuity Products","U.S. Currency"
-"2012","May","New Jersey","Hudson County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Insurance/Annuity Products","U.S. Currency"
-"2012","May","New York","Putnam County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","May","New York","Putnam County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Orange County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Forgeries","SEC","Employee","Other","Bank/Cashier's Check"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Other","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Stocks","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Employee","Other","Bank/Cashier's Check"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Employee","Other","Bank/Cashier's Check"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Stocks","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Stocks","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Employee","Other","Bank/Cashier's Check"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer"
-"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Funds Transfer"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Identity Theft","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Misappropriation","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Multiple Individuals with Same or Similar Identities","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Provided Questionable or False Documentation","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Stocks","Personal/Business Check"
-"2012","June","Nevada","Clark County, NV","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Insurance/Annuity Products","Funds Transfer"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Structuring","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Structuring","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","June","Ohio","Delaware County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","July","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","July","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","U.S. Currency"
-"2012","July","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Locations","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","July","California","Santa Clara County, CA","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Alters Transactions to Avoid Ctr Requirement","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Alters Transactions to Avoid Ctr Requirement","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Insider Trading","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Insider Trading","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Money Laundering","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Money Laundering","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Structuring","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Structuring","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Home Equity Loan","Bank/Cashier's Check"
-"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check"
-"2012","July","Connecticut","Fairfield County, CT","Securities/Futures","Other Other Suspicious Activities","SEC","No Relationship to Institution","Futures/Options on Futures","U.S. Currency"
-"2012","July","Connecticut","Hartford County, CT","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Connecticut","Hartford County, CT","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Bonds/Notes","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Mutual Fund","U.S. Currency"
-"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Structuring","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Pyramid Scheme","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Pooling","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","CFTC","Customer","Futures/Options on Futures","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","U.S. Currency"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","U.S. Currency"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","U.S. Currency"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","U.S. Currency"
-"2012","July","Minnesota","Ramsey County, MN","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Minnesota","Ramsey County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Personal/Business Check"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Personal/Business Check"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","July","Minnesota","Washington County, MN","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Personal/Business Check"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Government Payment"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Stocks","Government Payment"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Government Payment"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Government Payment"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Government Payment"
-"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Stocks","Government Payment"
-"2012","July","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","July","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","U.S. Currency"
-"2012","July","Texas","Bexar County, TX","Securities/Futures","Check","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","July","Washington","Spokane County, WA","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Other","Debit Card","U.S. Currency"
-"2012","July","Washington","Spokane County, WA","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Debit Card","U.S. Currency"
-"2012","July","Washington","Spokane County, WA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Debit Card","U.S. Currency"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Check","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Forgeries","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Forgeries","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Identity Theft","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Identity Theft","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Insider Trading","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Mail","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Mail","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Money Laundering","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Money Laundering","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Designation of Beneficiaries, Assignees or Joint Owners","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Designation of Beneficiaries, Assignees or Joint Owners","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Insurance/Annuity Products","Funds Transfer"
-"2012","August","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Mutual Fund","Funds Transfer"
-"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Suspicious Use of Multiple Locations","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Mail","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Misappropriation","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","August","Montana","Gallatin County, MT","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Montana","Gallatin County, MT","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Identity Theft","SEC","Customer","Stocks","Funds Transfer"
-"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Provided Questionable or False Documentation","SEC","Customer","Stocks","Funds Transfer"
-"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Wire Transfer","SEC","Customer","Stocks","Funds Transfer"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Debit Card","Funds Transfer"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Debit Card","Funds Transfer"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Customer","Debit Card","Funds Transfer"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","SEC","Customer","Debit Card","Funds Transfer"
-"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","August","New Jersey","Bergen County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","U.S. Currency"
-"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Account Takeover","SEC","Other","Other","Funds Transfer"
-"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Other","Funds Transfer"
-"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Identity Theft","SEC","Other","Other","Funds Transfer"
-"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Wire Transfer","SEC","Other","Other","Funds Transfer"
-"2012","August","New York","New York County, NY","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","New York","New York County, NY","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Suspicious Use of Multiple Locations","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Oregon","Washington County, OR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer"
-"2012","August","Texas","Harris County, TX","Securities/Futures","Elder Financial Exploitation","SEC","Customer","Bonds/Notes","Personal/Business Check"
-"2012","August","Texas","Harris County, TX","Securities/Futures","Elder Financial Exploitation","SEC","Customer","Stocks","Personal/Business Check"
-"2012","August","Texas","Harris County, TX","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Bonds/Notes","Personal/Business Check"
-"2012","August","Texas","Harris County, TX","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Stocks","Personal/Business Check"
-"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency"
-"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Elder Financial Exploitation","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency"
-"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency"
-"2012","September","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","September","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","U.S. Currency"
-"2012","September","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","September","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Stocks","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Funds Transfer"
-"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Debit Card","Personal/Business Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Other","Other","Bank/Cashier's Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Other","Other","Personal/Business Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Other","Bank/Cashier's Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Other","Personal/Business Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Other Suspicious Activities","SEC","Other","Other","Bank/Cashier's Check"
-"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Other Suspicious Activities","SEC","Other","Other","Personal/Business Check"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Other Identification Documentation","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Other Identification Documentation","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer"
-"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency"
-"2012","September","Texas","Bexar County, TX","Securities/Futures","Other Identification Documentation","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","September","Texas","Bexar County, TX","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","September","Texas","Bexar County, TX","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","September","Texas","Galveston County, TX","Securities/Futures","Multiple Transactions Below Bsa Recordkeeping Threshold","SEC","Customer","Debit Card","Money Orders"
-"2012","September","Texas","Galveston County, TX","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Debit Card","Money Orders"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Bonds/Notes","Funds Transfer"
-"2012","October","Minnesota","Hennepin County, MN","Securities/Futures","Forgeries","SEC","Customer","Other","Funds Transfer"
-"2012","October","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Other","Funds Transfer"
-"2012","October","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Funds Transfer"
-"2012","October","Ohio","Franklin County, OH","Securities/Futures","Account Takeover","SEC","Other","Other","Personal/Business Check"
-"2012","October","Ohio","Franklin County, OH","Securities/Futures","Identity Theft","SEC","Other","Other","Personal/Business Check"
-"2012","October","Ohio","Franklin County, OH","Securities/Futures","Provided Questionable or False Documentation","SEC","Other","Other","Personal/Business Check"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Account Takeover","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Credit Card","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Credit Card","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","CFTC","Customer","Credit Card","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Credit Card","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","November","Illinois","Cook County, IL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Options on Securities","Funds Transfer"
-"2012","November","Illinois","Cook County, IL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Options on Securities","Funds Transfer"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Agent","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Agent","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Other","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Agent","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Other","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Agent","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Other","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Agent","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Customer","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Insurance/Annuity Products","Personal/Business Check"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Other Money Laundering","CFTC","Customer","Forex Transactions","Personal/Business Check"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Personal/Business Check"
-"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Personal/Business Check"
-"2012","November","New York","New York County, NY","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Money Laundering","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer"
-"2012","November","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Funds Transfer"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Account Takeover","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Customer","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Other","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Identity Theft","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Other","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Other","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Mutual Fund","Personal/Business Check"
-"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Other","Personal/Business Check"
-"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Healthcare","SEC","Customer","Mutual Fund","Money Orders"
-"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Healthcare","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Money Orders"
-"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check"
-"2012","November","Texas","Harris County, TX","Securities/Futures","Market Manipulation/Wash Trading","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","November","Texas","Kleberg County, TX","Securities/Futures","ACH","SEC","Customer","Insurance/Annuity Products","Funds Transfer"
-"2012","November","Texas","Kleberg County, TX","Securities/Futures","Multiple Individuals with Same or Similar Identities","SEC","Customer","Insurance/Annuity Products","Funds Transfer"
-"2012","November","Texas","Kleberg County, TX","Securities/Futures","Other Structuring","SEC","Customer","Insurance/Annuity Products","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","December","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Funds Transfer"
-"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Stocks","Funds Transfer"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Check","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Mail","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","Kansas","Johnson County, KS","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer"
-"2012","December","New York","New York County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer"
-"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer"
-"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer"
-"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer"
-"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer"
+"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument","Count"
+"2012","May","New York","New York County, NY","Securities/Futures","Bribery or Gratuity","SEC","Customer","Stocks","Other",1
+"2012","May","New York","New York County, NY","Securities/Futures","Insider Trading","SEC","Customer","Stocks","Other",1
+"2012","May","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Stocks","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Bonds/Notes","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Bonds/Notes","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Bonds/Notes","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Other",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Bonds/Notes","Other",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Other Money Laundering","CFTC","Customer","Forex Transactions","Other",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Other",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Other",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Arkansas","Pulaski County, AR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","April","Georgia","Houston County, GA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","April","Massachusetts","Suffolk County, MA","Securities/Futures","Check","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","April","Massachusetts","Suffolk County, MA","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","April","Virginia","Chesterfield County, VA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","April","Virginia","Chesterfield County, VA","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","May","California","Los Angeles County, CA","Securities/Futures","Check","SEC","No Relationship to Institution","Stocks","Personal/Business Check",1
+"2012","May","California","Los Angeles County, CA","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Stocks","Personal/Business Check",1
+"2012","May","California","Orange County, CA","Securities/Futures","Multiple Transactions Below Ctr Threshold","SEC","Customer","Debit Card","U.S. Currency",1
+"2012","May","California","Orange County, CA","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Debit Card","U.S. Currency",1
+"2012","May","Connecticut","Fairfield County, CT","Securities/Futures","Other Money Laundering","SEC","No Relationship to Institution","Other","Foreign Currency",1
+"2012","May","New Jersey","Hudson County, NJ","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Insurance/Annuity Products","U.S. Currency",1
+"2012","May","New Jersey","Hudson County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Insurance/Annuity Products","U.S. Currency",1
+"2012","May","New York","Putnam County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",2
+"2012","May","New York","Putnam County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Arizona","Maricopa County, AZ","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Orange County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Forgeries","SEC","Employee","Other","Bank/Cashier's Check",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Other","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Stocks","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Employee","Other","Bank/Cashier's Check",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Employee","Other","Bank/Cashier's Check",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Stocks","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Stocks","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Employee","Other","Bank/Cashier's Check",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer",1
+"2012","June","Florida","Palm Beach County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Funds Transfer",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Identity Theft","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Misappropriation","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Multiple Individuals with Same or Similar Identities","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Provided Questionable or False Documentation","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Mississippi","Hinds County, MS","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","June","Nevada","Clark County, NV","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Insurance/Annuity Products","Funds Transfer",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Structuring","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Other Structuring","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","June","Ohio","Delaware County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","July","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",2
+"2012","July","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","U.S. Currency",2
+"2012","July","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Locations","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","July","California","Santa Clara County, CA","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Alters Transactions to Avoid Ctr Requirement","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Alters Transactions to Avoid Ctr Requirement","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Insider Trading","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Insider Trading","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Money Laundering","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Money Laundering","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Structuring","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Other Structuring","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Home Equity Loan","Bank/Cashier's Check",1
+"2012","July","Colorado","Pitkin County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Penny Stocks/Microcap Securities","Bank/Cashier's Check",1
+"2012","July","Connecticut","Fairfield County, CT","Securities/Futures","Other Other Suspicious Activities","SEC","No Relationship to Institution","Futures/Options on Futures","U.S. Currency",1
+"2012","July","Connecticut","Hartford County, CT","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Connecticut","Hartford County, CT","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Florida","Charlotte County, FL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Bonds/Notes","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Exchange of Currencies","SEC","Customer","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Funds Transfer",2
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Mutual Fund","U.S. Currency",1
+"2012","July","Florida","Miami-Dade County, FL","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Other Structuring","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Pyramid Scheme","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Unauthorized Pooling","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","CFTC","Customer","Futures/Options on Futures","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","July","Illinois","Cook County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","U.S. Currency",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Other","U.S. Currency",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","U.S. Currency",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Illinois","Tazewell County, IL","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","U.S. Currency",1
+"2012","July","Minnesota","Ramsey County, MN","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Minnesota","Ramsey County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Personal/Business Check",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Personal/Business Check",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","July","Minnesota","Washington County, MN","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Personal/Business Check",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Government Payment",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Stocks","Government Payment",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Government Payment",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Government Payment",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Government Payment",1
+"2012","July","New Jersey","Mercer County, NJ","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Stocks","Government Payment",1
+"2012","July","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","July","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","U.S. Currency",1
+"2012","July","Texas","Bexar County, TX","Securities/Futures","Check","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","July","Washington","Spokane County, WA","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Other","Debit Card","U.S. Currency",1
+"2012","July","Washington","Spokane County, WA","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Debit Card","U.S. Currency",1
+"2012","July","Washington","Spokane County, WA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Debit Card","U.S. Currency",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Check","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Forgeries","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Forgeries","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Identity Theft","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Identity Theft","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Insider Trading","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Mail","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Mail","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Money Laundering","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Money Laundering","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Other Securities/Futures/Options","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Designation of Beneficiaries, Assignees or Joint Owners","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Designation of Beneficiaries, Assignees or Joint Owners","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Insurance/Annuity Products","Funds Transfer",1
+"2012","August","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Mutual Fund","Funds Transfer",1
+"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Suspicious Use of Multiple Locations","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Massachusetts","Middlesex County, MA","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Mail","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","August","Massachusetts","Suffolk County, MA","Securities/Futures","Misappropriation","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","August","Montana","Gallatin County, MT","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Montana","Gallatin County, MT","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Identity Theft","SEC","Customer","Stocks","Funds Transfer",1
+"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Provided Questionable or False Documentation","SEC","Customer","Stocks","Funds Transfer",1
+"2012","August","Nebraska","Douglas County, NE","Securities/Futures","Wire Transfer","SEC","Customer","Stocks","Funds Transfer",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Debit Card","Funds Transfer",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Debit Card","Funds Transfer",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Customer","Debit Card","Funds Transfer",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Multiple Locations","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","SEC","Customer","Debit Card","Funds Transfer",1
+"2012","August","New Hampshire","Merrimack County, NH","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","August","New Jersey","Bergen County, NJ","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","U.S. Currency",2
+"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Account Takeover","SEC","Other","Other","Funds Transfer",1
+"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Other","Other","Funds Transfer",1
+"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Identity Theft","SEC","Other","Other","Funds Transfer",1
+"2012","August","New Jersey","Morris County, NJ","Securities/Futures","Wire Transfer","SEC","Other","Other","Funds Transfer",1
+"2012","August","New York","New York County, NY","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","New York","New York County, NY","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","No Relationship to Institution","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Forgeries","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Suspicious Use of Multiple Locations","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Oregon","Washington County, OR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Other","Funds Transfer",2
+"2012","August","Texas","Harris County, TX","Securities/Futures","Elder Financial Exploitation","SEC","Customer","Bonds/Notes","Personal/Business Check",1
+"2012","August","Texas","Harris County, TX","Securities/Futures","Elder Financial Exploitation","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","August","Texas","Harris County, TX","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Bonds/Notes","Personal/Business Check",1
+"2012","August","Texas","Harris County, TX","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Stocks","Personal/Business Check",1
+"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency",1
+"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Elder Financial Exploitation","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency",1
+"2012","September","Alabama","Jefferson County, AL","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Insurance/Annuity Products","U.S. Currency",1
+"2012","September","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","September","Arizona","Maricopa County, AZ","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","U.S. Currency",1
+"2012","September","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","September","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Stocks","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","September","Florida","Broward County, FL","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Stocks","Funds Transfer",1
+"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","September","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Debit Card","Personal/Business Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Other","Other","Bank/Cashier's Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Misuse of Position or Self-Dealing","SEC","Other","Other","Personal/Business Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Other","Bank/Cashier's Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Other","Personal/Business Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Other Suspicious Activities","SEC","Other","Other","Bank/Cashier's Check",1
+"2012","September","Indiana","Allen County, IN","Securities/Futures","Other Other Suspicious Activities","SEC","Other","Other","Personal/Business Check",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Other Identification Documentation","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Other Identification Documentation","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Provided Questionable or False Documentation","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","Funds Transfer",1
+"2012","September","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Mutual Fund","U.S. Currency",1
+"2012","September","Texas","Bexar County, TX","Securities/Futures","Other Identification Documentation","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","September","Texas","Bexar County, TX","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","September","Texas","Bexar County, TX","Securities/Futures","Single Individual with Multiple Identities","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","September","Texas","Galveston County, TX","Securities/Futures","Multiple Transactions Below Bsa Recordkeeping Threshold","SEC","Customer","Debit Card","Money Orders",1
+"2012","September","Texas","Galveston County, TX","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Debit Card","Money Orders",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Changes Spelling or Arrangement of Name","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Money Laundering","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Florida","Miami-Dade County, FL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Bonds/Notes","Funds Transfer",1
+"2012","October","Minnesota","Hennepin County, MN","Securities/Futures","Forgeries","SEC","Customer","Other","Funds Transfer",1
+"2012","October","Minnesota","Hennepin County, MN","Securities/Futures","Wire Transfer","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Suspicious Use of Multiple Accounts","SEC","Customer","Other","Funds Transfer",1
+"2012","October","New York","New York County, NY","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Funds Transfer",1
+"2012","October","Ohio","Franklin County, OH","Securities/Futures","Account Takeover","SEC","Other","Other","Personal/Business Check",1
+"2012","October","Ohio","Franklin County, OH","Securities/Futures","Identity Theft","SEC","Other","Other","Personal/Business Check",1
+"2012","October","Ohio","Franklin County, OH","Securities/Futures","Provided Questionable or False Documentation","SEC","Other","Other","Personal/Business Check",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Account Takeover","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Credit Card","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer",2
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Credit Card","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer",3
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Forex Transactions","Funds Transfer",2
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","CFTC","Customer","Credit Card","Funds Transfer",2
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Noncash Monetary Instruments","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Credit Card","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Forex Transactions","Funds Transfer",2
+"2012","November","California","Los Angeles County, CA","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Colorado","Arapahoe County, CO","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","November","Illinois","Cook County, IL","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Options on Securities","Funds Transfer",1
+"2012","November","Illinois","Cook County, IL","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Options on Securities","Funds Transfer",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Agent","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Fraud (Type)","SEC","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Agent","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Insurance","SEC","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Agent","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Other Money Laundering","SEC","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Agent","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Refused or Avoided Request for Documentation","SEC","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Agent","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Customer","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","Indiana","Allen County, IN","Securities/Futures","Two or More Individuals Working Together","SEC","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Other Money Laundering","CFTC","Customer","Forex Transactions","Personal/Business Check",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Personal/Business Check",1
+"2012","November","New Jersey","Bergen County, NJ","Securities/Futures","Two or More Individuals Working Together","CFTC","Customer","Forex Transactions","Personal/Business Check",1
+"2012","November","New York","New York County, NY","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Money Laundering","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer",1
+"2012","November","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Funds Transfer",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Account Takeover","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Customer","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Check","SEC","Other","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Identity Theft","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Customer","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","SEC","Other","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Customer","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Suspicious Use of Third-Party Transactors (Straw-Man)","SEC","Other","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Customer","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction Out of Pattern for Customer(s)","SEC","Other","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Customer","Other","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Mutual Fund","Personal/Business Check",1
+"2012","November","Ohio","Franklin County, OH","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","Other","Other","Personal/Business Check",1
+"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Healthcare","SEC","Customer","Mutual Fund","Money Orders",1
+"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Healthcare","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Money Orders",1
+"2012","November","South Dakota","Lawrence County, SD","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Mutual Fund","Personal/Business Check",1
+"2012","November","Texas","Harris County, TX","Securities/Futures","Market Manipulation/Wash Trading","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","November","Texas","Kleberg County, TX","Securities/Futures","ACH","SEC","Customer","Insurance/Annuity Products","Funds Transfer",1
+"2012","November","Texas","Kleberg County, TX","Securities/Futures","Multiple Individuals with Same or Similar Identities","SEC","Customer","Insurance/Annuity Products","Funds Transfer",1
+"2012","November","Texas","Kleberg County, TX","Securities/Futures","Other Structuring","SEC","Customer","Insurance/Annuity Products","Funds Transfer",1
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","CFTC","Customer","Forex Transactions","Funds Transfer",2
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious Concerning the Source of Funds","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","CFTC","Customer","Forex Transactions","Funds Transfer",3
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Penny Stocks/Microcap Securities","Funds Transfer",1
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Suspicious Use of Multiple Accounts","CFTC","Customer","Forex Transactions","Funds Transfer",1
+"2012","December","California","Los Angeles County, CA","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","CFTC","Customer","Forex Transactions","Funds Transfer",2
+"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Market Manipulation/Wash Trading","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Transaction with No Apparent Economic, Business, or Lawful Purpose","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","December","Connecticut","Fairfield County, CT","Securities/Futures","Two or More Individuals Working Together","SEC","No Relationship to Institution","Stocks","Funds Transfer",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Account Takeover","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Check","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Embezzlement/Theft/Disappearance of Funds","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Mail","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Misappropriation","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","Kansas","Johnson County, KS","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Mutual Fund","Personal/Business Check",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Casinos","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Fraud (Type)","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Identification Documentation","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Mortgage Fraud","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Other Suspicious Activities","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Securities/Futures/Options","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Structuring","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Other Terrorist","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Suspicious Concerning the Source of Funds","SEC","Customer","Other","Funds Transfer",1
+"2012","December","New York","New York County, NY","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","Customer","Other","Funds Transfer",1
+"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Identity Theft","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer",1
+"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Suspicious EFT/Wire Transfers","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer",1
+"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Unauthorized Electronic Intrusion","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer",1
+"2012","December","Oregon","Deschutes County, OR","Securities/Futures","Wire Transfer","SEC","No Relationship to Institution","Insurance/Annuity Products","Funds Transfer",1

@@ -1,496 +1,496 @@
-"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument"
-"2015","January","Georgia","Fulton County, GA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Other"
-"2015","January","Georgia","Fulton County, GA","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Residential Mortgage","Other"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Other"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Other"
-"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Other"
-"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Other"
-"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Credit Card","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Credit Card","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Other","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Credit Card","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Structuring","Not Applicable","Customer","Credit Card","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Credit Card","Other"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Other","Other"
-"2015","October","Arizona","Maricopa County, AZ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Residential Mortgage","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Insurance/Annuity Products","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Other"
-"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Other"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Consumer Loan","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Fraud (Type)","FHFA","Other","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Identification Documentation","FHFA","Other","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Mortgage Fraud","FHFA","Other","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Other Suspicious Activities","FHFA","Other","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Structuring","FHFA","Other","Residential Mortgage","Other"
-"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Provided Questionable or False Documentation","FHFA","Other","Residential Mortgage","Other"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Borrower","Residential Mortgage","Other"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Customer","Residential Mortgage","Other"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Borrower","Residential Mortgage","Other"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Customer","Residential Mortgage","Other"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Foreclosure Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Foreclosure Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Refused or Avoided Request for Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Refused or Avoided Request for Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Single Individual with Multiple Identities","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Single Individual with Multiple Identities","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","January","Puerto Rico","Guaynabo Municipio, PR","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Employee","Residential Mortgage","Money Orders"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","February","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","February","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Healthcare","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Healthcare","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Alters Transaction to Avoid Bsa Recordkeeping Requirement","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Consumer Loan","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Other Structuring","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Appraisal Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Identity Theft","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Other","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Debit Card","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Other","Funds Transfer"
-"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Prepaid Access","Funds Transfer"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check"
-"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Credit Card","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Credit Card","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Other","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Credit Card","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Bank/Cashier's Check"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Money Orders"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Credit Card","U.S. Currency"
-"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Other","U.S. Currency"
-"2015","July","California","Marin County, CA","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","July","California","Marin County, CA","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","July","California","Marin County, CA","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","July","California","Orange County, CA","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","July","California","Orange County, CA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","July","California","Orange County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","July","California","Orange County, CA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Texas","Harris County, TX","Loan or Finance Company","ACH","Not Applicable","Other","Other","Funds Transfer"
-"2015","July","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Funds Transfer"
-"2015","July","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Funds Transfer"
-"2015","July","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Funds Transfer"
-"2015","July","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Funds Transfer"
-"2015","August","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Personal/Business Check"
-"2015","August","California","San Francisco County, CA","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Customer","Residential Mortgage","Personal/Business Check"
-"2015","August","California","San Francisco County, CA","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Customer","Residential Mortgage","Personal/Business Check"
-"2015","August","California","San Francisco County, CA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Customer","Residential Mortgage","Personal/Business Check"
-"2015","August","California","San Francisco County, CA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Residential Mortgage","Personal/Business Check"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency"
-"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Consumer Loan","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Customer","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Wire Transfer","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Wire Transfer","Not Applicable","Borrower","Residential Mortgage","Money Orders"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","ACH","Not Applicable","Other","Other","Funds Transfer"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Check","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Funds Transfer"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Funds Transfer"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Funds Transfer"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check"
-"2015","September","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Funds Transfer"
-"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","November","California","Sonoma County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","November","California","Sonoma County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Money Laundering","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Money Laundering","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Account Takeover","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Account Takeover","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Identity Theft","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Identity Theft","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Structuring","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Structuring","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Funds Transfer"
-"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Personal/Business Check"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Account Takeover","Not Applicable","Borrower","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Account Takeover","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Foreclosure Fraud","Not Applicable","Borrower","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Foreclosure Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious EFT/Wire Transfers","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious EFT/Wire Transfers","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Exchange of Currencies","Not Applicable","Borrower","Residential Mortgage","Foreign Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Exchange of Currencies","Not Applicable","Borrower","Residential Mortgage","Funds Transfer"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","U.S. Currency"
-"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Other","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Other","Funds Transfer"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Residential Mortgage","Bank/Cashier's Check"
-"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Employee","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Other","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Employee","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Other","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Fraud (Type)","IRS","Employee","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Fraud (Type)","IRS","Other","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Mortgage Fraud","IRS","Employee","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Mortgage Fraud","IRS","Other","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Two or More Individuals Working Together","IRS","Employee","Residential Mortgage","Funds Transfer"
-"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Two or More Individuals Working Together","IRS","Other","Residential Mortgage","Funds Transfer"
-"2015","July","California","Los Angeles County, CA","Loan or Finance Company","Suspicious EFT/Wire Transfers","IRS","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","California","Los Angeles County, CA","Loan or Finance Company","Wire Transfer","IRS","No Relationship to Institution","Residential Mortgage","Funds Transfer"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","Borrower","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","Borrower","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","Borrower","Residential Mortgage","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check"
-"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Consumer Loan","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Consumer Loan","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Other Structuring","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check"
-"2015","December","Florida","Orange County, FL","Loan or Finance Company","Other Structuring","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Massachusetts","Plymouth County, MA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","OCC","Employee","Residential Mortgage","Money Orders"
-"2015","December","New York","New York County, NY","Loan or Finance Company","Other Fraud (Type)","FRB","No Relationship to Institution","Other","Funds Transfer"
-"2015","December","New York","New York County, NY","Loan or Finance Company","Wire Transfer","FRB","No Relationship to Institution","Other","Funds Transfer"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Customer","Residential Mortgage","Funds Transfer"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Borrower","Residential Mortgage","Funds Transfer"
-"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Customer","Residential Mortgage","Funds Transfer"
+"Year","Month","State","Countym","Industry","Suspicious.Activity","Regulator","Relationship","Product","Instrument","Count"
+"2015","January","Georgia","Fulton County, GA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Other",2
+"2015","January","Georgia","Fulton County, GA","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Residential Mortgage","Other",2
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Other",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Other",1
+"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Other",1
+"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Other",1
+"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Credit Card","Other",2
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Credit Card","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Other","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Credit Card","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Structuring","Not Applicable","Customer","Credit Card","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Credit Card","Other",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Other","Other",1
+"2015","October","Arizona","Maricopa County, AZ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Other Identification Documentation","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Proceeds Sent to Unrelated Third Party","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Insurance/Annuity Products","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Other",1
+"2015","October","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Other",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Consumer Loan","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Other",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Other",2
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Fraud (Type)","FHFA","Other","Residential Mortgage","Other",1
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Identification Documentation","FHFA","Other","Residential Mortgage","Other",1
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Mortgage Fraud","FHFA","Other","Residential Mortgage","Other",1
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Other Suspicious Activities","FHFA","Other","Residential Mortgage","Other",1
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Other Structuring","FHFA","Other","Residential Mortgage","Other",1
+"2015","September","Utah","Salt Lake County, UT","Loan or Finance Company","Provided Questionable or False Documentation","FHFA","Other","Residential Mortgage","Other",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Borrower","Residential Mortgage","Other",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Customer","Residential Mortgage","Other",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Borrower","Residential Mortgage","Other",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Customer","Residential Mortgage","Other",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Foreclosure Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Foreclosure Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",5
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",5
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",4
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",4
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Refused or Avoided Request for Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Refused or Avoided Request for Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Single Individual with Multiple Identities","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Single Individual with Multiple Identities","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",2
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","January","Puerto Rico","Guaynabo Municipio, PR","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Employee","Residential Mortgage","Money Orders",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders",2
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders",2
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","February","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","February","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","February","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Healthcare","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Healthcare","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Michigan","Kalamazoo County, MI","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Alters Transaction to Avoid Bsa Recordkeeping Requirement","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Consumer Loan","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Other Structuring","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","March","New Hampshire","Hillsborough County, NH","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Appraisal Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Money Orders",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Identity Theft","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Other","Residential Mortgage","Money Orders",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Money Orders",2
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","March","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",2
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","ACH","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Identity Theft","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Debit Card","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Other","Funds Transfer",1
+"2015","April","California","San Francisco County, CA","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Customer","Prepaid Access","Funds Transfer",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Multiple Locations","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","April","Florida","Palm Beach County, FL","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","April","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Home Equity Line of Credit","Personal/Business Check",1
+"2015","May","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","June","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Credit Card","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Credit/Debit Card","Not Applicable","Customer","Other","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Credit Card","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Customer","Other","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Credit Card","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Bank/Cashier's Check",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","Money Orders",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Customer","Other","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Credit Card","U.S. Currency",1
+"2015","July","Arizona","Maricopa County, AZ","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Other","U.S. Currency",1
+"2015","July","California","Marin County, CA","Loan or Finance Company","Multiple Transactions Below Ctr Threshold","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","July","California","Marin County, CA","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","July","California","Marin County, CA","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","July","California","Orange County, CA","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","July","California","Orange County, CA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","July","California","Orange County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","July","California","Orange County, CA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",2
+"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","July","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","Money Orders",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",2
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",1
+"2015","July","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Texas","Harris County, TX","Loan or Finance Company","ACH","Not Applicable","Other","Other","Funds Transfer",1
+"2015","July","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Funds Transfer",1
+"2015","July","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Funds Transfer",1
+"2015","July","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Funds Transfer",1
+"2015","July","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Funds Transfer",1
+"2015","August","California","San Francisco County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Personal/Business Check",1
+"2015","August","California","San Francisco County, CA","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Customer","Residential Mortgage","Personal/Business Check",1
+"2015","August","California","San Francisco County, CA","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Customer","Residential Mortgage","Personal/Business Check",1
+"2015","August","California","San Francisco County, CA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Customer","Residential Mortgage","Personal/Business Check",1
+"2015","August","California","San Francisco County, CA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Residential Mortgage","Personal/Business Check",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",3
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",4
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Foreign Currency",1
+"2015","August","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",2
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Consumer Loan","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Consumer Loan","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","August","Virginia","Fairfax County, VA","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",2
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Forgeries","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",2
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Customer","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Wire Transfer","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","September","Texas","Dallas County, TX","Loan or Finance Company","Wire Transfer","Not Applicable","Borrower","Residential Mortgage","Money Orders",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","ACH","Not Applicable","Other","Other","Funds Transfer",2
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Check","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Elder Financial Exploitation","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Forgeries","Not Applicable","Other","Other","Funds Transfer",2
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","Not Applicable","Other","Other","Funds Transfer",2
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Other","Funds Transfer",2
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Insurance/Annuity Products","Personal/Business Check",1
+"2015","September","Texas","Harris County, TX","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Other","Funds Transfer",2
+"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","October","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",3
+"2015","November","California","Sonoma County, CA","Loan or Finance Company","Consumer Loan","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",3
+"2015","November","California","Sonoma County, CA","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",3
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Money Laundering","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Money Laundering","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Suspicious Use of Noncash Monetary Instruments","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction Out of Pattern for Customer(s)","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Florida","Palm Beach County, FL","Loan or Finance Company","Transaction with No Apparent Economic, Business, or Lawful Purpose","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Multiple Accounts","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Suspicious Use of Third-Party Transactors (Straw-Man)","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Michigan","Oakland County, MI","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Account Takeover","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Account Takeover","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Forgeries","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Identity Theft","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Identity Theft","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Fraud (Type)","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Structuring","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Other Structuring","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Funds Transfer",1
+"2015","November","New Jersey","Essex County, NJ","Loan or Finance Company","Reverse Mortgage Fraud","Not Applicable","Other","Residential Mortgage","Personal/Business Check",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Account Takeover","Not Applicable","Borrower","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Account Takeover","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Foreclosure Fraud","Not Applicable","Borrower","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Foreclosure Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspected Public/Private Corruption (Domestic)","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Concerning the Source of Funds","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",2
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious EFT/Wire Transfers","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious EFT/Wire Transfers","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Exchange of Currencies","Not Applicable","Borrower","Residential Mortgage","Foreign Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Suspicious Exchange of Currencies","Not Applicable","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","U.S. Currency",1
+"2015","November","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","U.S. Currency",1
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",6
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Check","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",6
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Counterfeit Instrument (Other)","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Loan Modification Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Mail","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",6
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Mortgage Fraud","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Other Other Suspicious Activities","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",6
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Provided Questionable or False Documentation","Not Applicable","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","Borrower","Residential Mortgage","Bank/Cashier's Check",4
+"2015","December","Texas","Dallas County, TX","Loan or Finance Company","Two or More Individuals Working Together","Not Applicable","No Relationship to Institution","Residential Mortgage","Bank/Cashier's Check",3
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Changes Spelling or Arrangement of Name","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Consumer Loan","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Counterfeit Instrument (Other)","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Identity Theft","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Multiple Individuals with Same or Similar Identities","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Identification Documentation","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Mortgage Fraud","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Other Structuring","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Provided Questionable or False Documentation","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Two or More Individuals Working Together","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Other","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Other","Funds Transfer",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Residential Mortgage","Bank/Cashier's Check",1
+"2015","January","Ohio","Mahoning County, OH","Loan or Finance Company","Wire Transfer","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Employee","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Other","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Employee","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Other","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Fraud (Type)","IRS","Employee","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Fraud (Type)","IRS","Other","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Mortgage Fraud","IRS","Employee","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Other Mortgage Fraud","IRS","Other","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Two or More Individuals Working Together","IRS","Employee","Residential Mortgage","Funds Transfer",1
+"2015","March","Texas","Tarrant County, TX","Loan or Finance Company","Two or More Individuals Working Together","IRS","Other","Residential Mortgage","Funds Transfer",1
+"2015","July","California","Los Angeles County, CA","Loan or Finance Company","Suspicious EFT/Wire Transfers","IRS","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","California","Los Angeles County, CA","Loan or Finance Company","Wire Transfer","IRS","No Relationship to Institution","Residential Mortgage","Funds Transfer",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","Borrower","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Other Other Suspicious Activities","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","Borrower","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","Borrower","Residential Mortgage","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","No Relationship to Institution","Commercial Paper","Personal/Business Check",1
+"2015","July","Pennsylvania","Chester County, PA","Loan or Finance Company","Two or More Individuals Working Together","IRS","No Relationship to Institution","Residential Mortgage","Personal/Business Check",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Consumer Loan","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Consumer Loan","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Misuse of Position or Self-Dealing","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Other Structuring","IRS","Borrower","Residential Mortgage","Bank/Cashier's Check",1
+"2015","December","Florida","Orange County, FL","Loan or Finance Company","Other Structuring","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Massachusetts","Plymouth County, MA","Loan or Finance Company","Embezzlement/Theft/Disappearance of Funds","OCC","Employee","Residential Mortgage","Money Orders",1
+"2015","December","New York","New York County, NY","Loan or Finance Company","Other Fraud (Type)","FRB","No Relationship to Institution","Other","Funds Transfer",1
+"2015","December","New York","New York County, NY","Loan or Finance Company","Wire Transfer","FRB","No Relationship to Institution","Other","Funds Transfer",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Multiple Transactions Below Bsa Recordkeeping Threshold","IRS","Customer","Residential Mortgage","Funds Transfer",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Borrower","Residential Mortgage","Funds Transfer",1
+"2015","December","Pennsylvania","Chester County, PA","Loan or Finance Company","Suspicious Concerning the Source of Funds","IRS","Customer","Residential Mortgage","Funds Transfer",1

@@ -30,4 +30,4 @@ As of now we are aware that the post-2012 Depository Institutes data isn't compl
 
 ## License
 
-This data is licensced under Creative Commons Attribution 3.0 United States (https://creativecommons.org/licenses/by/3.0/us/legalcode)
+To the extent any new intellectual property rights have been created, the Berkman Klein Center for Internet & Society at Harvard University is the rights holder and these works are licensed under the Creative Commons Attribution 3.0 United States license (https://creativecommons.org/licenses/by/3.0/us/legalcode).

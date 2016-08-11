@@ -1,172 +1,145 @@
 "Relationship","Year","Incidents"
-"Customer","1996",0
-"Agent","1996",1
-"Junket/Tour Operator","1996",0
-"Employee","1996",1
-"Check Cashing Operator","1996",0
-"Supplier","1996",0
-"Concessionaire","1996",64
-"Other","1996",0
-"Unknown/Blank","1996",22
-"Customer","1997",44
-"Agent","1997",0
-"Junket/Tour Operator","1997",0
-"Employee","1997",0
-"Check Cashing Operator","1997",0
-"Supplier","1997",0
-"Concessionaire","1997",0
-"Other","1997",0
-"Unknown/Blank","1997",1
-"Customer","1998",453
-"Agent","1998",6
-"Junket/Tour Operator","1998",2
-"Employee","1998",3
-"Check Cashing Operator","1998",1
-"Supplier","1998",0
-"Concessionaire","1998",6
-"Other","1998",0
-"Unknown/Blank","1998",96
-"Customer","1999",364
-"Agent","1999",4
-"Junket/Tour Operator","1999",0
-"Employee","1999",7
-"Check Cashing Operator","1999",0
-"Supplier","1999",0
-"Concessionaire","1999",5
-"Other","1999",0
-"Unknown/Blank","1999",66
-"Customer","2000",440
-"Agent","2000",4
-"Junket/Tour Operator","2000",0
-"Employee","2000",1
-"Check Cashing Operator","2000",0
-"Supplier","2000",0
-"Concessionaire","2000",3
-"Other","2000",0
-"Unknown/Blank","2000",22
-"Customer","2001",1340
-"Agent","2001",10
-"Junket/Tour Operator","2001",1
-"Employee","2001",9
-"Check Cashing Operator","2001",0
-"Supplier","2001",0
-"Concessionaire","2001",4
-"Other","2001",0
-"Unknown/Blank","2001",21
-"Customer","2002",1798
-"Agent","2002",7
-"Junket/Tour Operator","2002",2
-"Employee","2002",7
-"Check Cashing Operator","2002",0
-"Supplier","2002",1
-"Concessionaire","2002",5
-"Other","2002",0
-"Unknown/Blank","2002",20
-"Customer","2003",4540
-"Agent","2003",45
-"Junket/Tour Operator","2003",1
-"Employee","2003",14
-"Check Cashing Operator","2003",1
-"Supplier","2003",0
-"Concessionaire","2003",8
-"Other","2003",36
-"Unknown/Blank","2003",529
-"Customer","2004",5183
-"Agent","2004",43
-"Junket/Tour Operator","2004",3
-"Employee","2004",21
-"Check Cashing Operator","2004",0
-"Supplier","2004",0
-"Concessionaire","2004",3
-"Other","2004",35
-"Unknown/Blank","2004",518
-"Customer","2005",5446
-"Agent","2005",110
-"Junket/Tour Operator","2005",1
-"Employee","2005",9
-"Check Cashing Operator","2005",1
-"Supplier","2005",1
-"Concessionaire","2005",2
-"Other","2005",27
-"Unknown/Blank","2005",604
-"Customer","2006",6954
-"Agent","2006",88
-"Junket/Tour Operator","2006",0
-"Employee","2006",23
-"Check Cashing Operator","2006",0
-"Supplier","2006",0
-"Concessionaire","2006",5
-"Other","2006",46
-"Unknown/Blank","2006",275
-"Customer","2007",9506
-"Agent","2007",119
-"Junket/Tour Operator","2007",0
-"Employee","2007",38
-"Check Cashing Operator","2007",1
-"Supplier","2007",1
-"Concessionaire","2007",4
-"Other","2007",76
-"Unknown/Blank","2007",338
-"Customer","2008",10551
-"Agent","2008",170
-"Junket/Tour Operator","2008",3
-"Employee","2008",59
-"Check Cashing Operator","2008",0
-"Supplier","2008",2
-"Concessionaire","2008",3
-"Other","2008",95
-"Unknown/Blank","2008",444
-"Customer","2009",11475
-"Agent","2009",136
-"Junket/Tour Operator","2009",1
-"Employee","2009",62
-"Check Cashing Operator","2009",0
-"Supplier","2009",0
-"Concessionaire","2009",0
-"Other","2009",48
-"Unknown/Blank","2009",595
-"Customer","2010",6179
-"Agent","2010",97
-"Junket/Tour Operator","2010",1
-"Employee","2010",31
-"Check Cashing Operator","2010",2
-"Supplier","2010",1
-"Concessionaire","2010",0
-"Other","2010",64
-"Unknown/Blank","2010",421
-"Customer","2011",0
-"Agent","2011",0
-"Junket/Tour Operator","2011",0
-"Employee","2011",0
-"Check Cashing Operator","2011",0
-"Supplier","2011",0
-"Concessionaire","2011",0
-"Other","2011",0
-"Unknown/Blank","2011",0
-"Customer","2012",0
-"Agent","2012",0
-"Junket/Tour Operator","2012",0
-"Employee","2012",0
-"Check Cashing Operator","2012",0
-"Supplier","2012",0
-"Concessionaire","2012",0
-"Other","2012",0
-"Unknown/Blank","2012",0
-"Customer","2013",0
-"Agent","2013",0
-"Junket/Tour Operator","2013",0
-"Employee","2013",0
-"Check Cashing Operator","2013",0
-"Supplier","2013",0
-"Concessionaire","2013",0
-"Other","2013",0
-"Unknown/Blank","2013",0
-"Customer","2014",0
-"Agent","2014",0
-"Junket/Tour Operator","2014",0
-"Employee","2014",0
-"Check Cashing Operator","2014",0
-"Supplier","2014",0
-"Concessionaire","2014",0
-"Other","2014",0
-"Unknown/Blank","2014",0
+"Customer",1996,0
+"Agent",1996,1
+"Junket/Tour Operator",1996,0
+"Employee",1996,1
+"Check Cashing Operator",1996,0
+"Supplier",1996,0
+"Concessionaire",1996,64
+"Other",1996,0
+"Unknown/Blank",1996,22
+"Customer",1997,44
+"Agent",1997,0
+"Junket/Tour Operator",1997,0
+"Employee",1997,0
+"Check Cashing Operator",1997,0
+"Supplier",1997,0
+"Concessionaire",1997,0
+"Other",1997,0
+"Unknown/Blank",1997,1
+"Customer",1998,453
+"Agent",1998,6
+"Junket/Tour Operator",1998,2
+"Employee",1998,3
+"Check Cashing Operator",1998,1
+"Supplier",1998,0
+"Concessionaire",1998,6
+"Other",1998,0
+"Unknown/Blank",1998,96
+"Customer",1999,364
+"Agent",1999,4
+"Junket/Tour Operator",1999,0
+"Employee",1999,7
+"Check Cashing Operator",1999,0
+"Supplier",1999,0
+"Concessionaire",1999,5
+"Other",1999,0
+"Unknown/Blank",1999,66
+"Customer",2000,440
+"Agent",2000,4
+"Junket/Tour Operator",2000,0
+"Employee",2000,1
+"Check Cashing Operator",2000,0
+"Supplier",2000,0
+"Concessionaire",2000,3
+"Other",2000,0
+"Unknown/Blank",2000,22
+"Customer",2001,1340
+"Agent",2001,10
+"Junket/Tour Operator",2001,1
+"Employee",2001,9
+"Check Cashing Operator",2001,0
+"Supplier",2001,0
+"Concessionaire",2001,4
+"Other",2001,0
+"Unknown/Blank",2001,21
+"Customer",2002,1798
+"Agent",2002,7
+"Junket/Tour Operator",2002,2
+"Employee",2002,7
+"Check Cashing Operator",2002,0
+"Supplier",2002,1
+"Concessionaire",2002,5
+"Other",2002,0
+"Unknown/Blank",2002,20
+"Customer",2003,4540
+"Agent",2003,45
+"Junket/Tour Operator",2003,1
+"Employee",2003,14
+"Check Cashing Operator",2003,1
+"Supplier",2003,0
+"Concessionaire",2003,8
+"Other",2003,36
+"Unknown/Blank",2003,529
+"Customer",2004,5183
+"Agent",2004,43
+"Junket/Tour Operator",2004,3
+"Employee",2004,21
+"Check Cashing Operator",2004,0
+"Supplier",2004,0
+"Concessionaire",2004,3
+"Other",2004,35
+"Unknown/Blank",2004,518
+"Customer",2005,5446
+"Agent",2005,110
+"Junket/Tour Operator",2005,1
+"Employee",2005,9
+"Check Cashing Operator",2005,1
+"Supplier",2005,1
+"Concessionaire",2005,2
+"Other",2005,27
+"Unknown/Blank",2005,604
+"Customer",2006,6954
+"Agent",2006,88
+"Junket/Tour Operator",2006,0
+"Employee",2006,23
+"Check Cashing Operator",2006,0
+"Supplier",2006,0
+"Concessionaire",2006,5
+"Other",2006,46
+"Unknown/Blank",2006,275
+"Customer",2007,9506
+"Agent",2007,119
+"Junket/Tour Operator",2007,0
+"Employee",2007,38
+"Check Cashing Operator",2007,1
+"Supplier",2007,1
+"Concessionaire",2007,4
+"Other",2007,76
+"Unknown/Blank",2007,338
+"Customer",2008,10551
+"Agent",2008,170
+"Junket/Tour Operator",2008,3
+"Employee",2008,59
+"Check Cashing Operator",2008,0
+"Supplier",2008,2
+"Concessionaire",2008,3
+"Other",2008,95
+"Unknown/Blank",2008,444
+"Customer",2009,11475
+"Agent",2009,136
+"Junket/Tour Operator",2009,1
+"Employee",2009,62
+"Check Cashing Operator",2009,0
+"Supplier",2009,0
+"Concessionaire",2009,0
+"Other",2009,48
+"Unknown/Blank",2009,595
+"Customer",2010,6179
+"Agent",2010,97
+"Junket/Tour Operator",2010,1
+"Employee",2010,31
+"Check Cashing Operator",2010,2
+"Supplier",2010,1
+"Concessionaire",2010,0
+"Other",2010,64
+"Unknown/Blank",2010,421
+"Customer",2011,0
+"Agent",2011,0
+"Junket/Tour Operator",2011,0
+"Employee",2011,0
+"Check Cashing Operator",2011,0
+"Supplier",2011,0
+"Concessionaire",2011,0
+"Other",2011,0
+"Unknown/Blank",2011,0

@@ -1,1160 +1,977 @@
 "State.Territory","Year","Incidents"
-"Alabama","1996",0
-"Alaska","1996",0
-"American Samoa","1996",0
-"Arizona","1996",0
-"Arkansas","1996",0
-"California","1996",0
-"Colorado","1996",0
-"Connecticut","1996",0
-"Delaware","1996",0
-"District of Columbia","1996",0
-"Federated States of Micronesia","1996",0
-"Florida","1996",0
-"Georgia","1996",0
-"Guam","1996",0
-"Hawaii","1996",0
-"Idaho","1996",0
-"Illinois","1996",0
-"Indiana","1996",0
-"Iowa","1996",0
-"Kansas","1996",0
-"Kentucky","1996",0
-"Louisiana","1996",0
-"Maine","1996",0
-"Marshall Islands","1996",0
-"Maryland","1996",0
-"Massachusetts","1996",0
-"Michigan","1996",0
-"Minnesota","1996",0
-"Mississippi","1996",0
-"Missouri","1996",0
-"Montana","1996",0
-"Nebraska","1996",0
-"Nevada","1996",0
-"New Hampshire","1996",0
-"New Jersey","1996",0
-"New Mexico","1996",0
-"New York","1996",0
-"North Carolina","1996",0
-"North Dakota","1996",0
-"Northern Mariana Islands","1996",0
-"Ohio","1996",0
-"Oklahoma","1996",0
-"Oregon","1996",0
-"Overseas","1996",0
-"Palau","1996",0
-"Pennsylvania","1996",0
-"Puerto Rico","1996",0
-"Rhode Island","1996",0
-"South Carolina","1996",0
-"South Dakota","1996",0
-"Tennessee","1996",0
-"Texas","1996",0
-"U.S. Virgin Islands","1996",0
-"Unknown/Blank","1996",0
-"Utah","1996",0
-"Vermont","1996",0
-"Virginia","1996",0
-"Washington","1996",0
-"West Virginia","1996",0
-"Wisconsin","1996",0
-"Wyoming","1996",0
-"Alabama","1997",0
-"Alaska","1997",0
-"American Samoa","1997",0
-"Arizona","1997",0
-"Arkansas","1997",0
-"California","1997",0
-"Colorado","1997",0
-"Connecticut","1997",0
-"Delaware","1997",0
-"District of Columbia","1997",0
-"Federated States of Micronesia","1997",0
-"Florida","1997",0
-"Georgia","1997",0
-"Guam","1997",0
-"Hawaii","1997",0
-"Idaho","1997",0
-"Illinois","1997",0
-"Indiana","1997",0
-"Iowa","1997",0
-"Kansas","1997",0
-"Kentucky","1997",0
-"Louisiana","1997",0
-"Maine","1997",0
-"Marshall Islands","1997",0
-"Maryland","1997",0
-"Massachusetts","1997",0
-"Michigan","1997",0
-"Minnesota","1997",0
-"Mississippi","1997",0
-"Missouri","1997",0
-"Montana","1997",0
-"Nebraska","1997",0
-"Nevada","1997",0
-"New Hampshire","1997",0
-"New Jersey","1997",0
-"New Mexico","1997",0
-"New York","1997",0
-"North Carolina","1997",0
-"North Dakota","1997",0
-"Northern Mariana Islands","1997",0
-"Ohio","1997",0
-"Oklahoma","1997",0
-"Oregon","1997",0
-"Overseas","1997",0
-"Palau","1997",0
-"Pennsylvania","1997",0
-"Puerto Rico","1997",0
-"Rhode Island","1997",0
-"South Carolina","1997",0
-"South Dakota","1997",0
-"Tennessee","1997",0
-"Texas","1997",0
-"U.S. Virgin Islands","1997",0
-"Unknown/Blank","1997",0
-"Utah","1997",0
-"Vermont","1997",0
-"Virginia","1997",0
-"Washington","1997",0
-"West Virginia","1997",0
-"Wisconsin","1997",0
-"Wyoming","1997",0
-"Alabama","1998",0
-"Alaska","1998",0
-"American Samoa","1998",0
-"Arizona","1998",0
-"Arkansas","1998",0
-"California","1998",0
-"Colorado","1998",0
-"Connecticut","1998",0
-"Delaware","1998",0
-"District of Columbia","1998",0
-"Federated States of Micronesia","1998",0
-"Florida","1998",0
-"Georgia","1998",0
-"Guam","1998",0
-"Hawaii","1998",0
-"Idaho","1998",0
-"Illinois","1998",0
-"Indiana","1998",0
-"Iowa","1998",0
-"Kansas","1998",0
-"Kentucky","1998",0
-"Louisiana","1998",0
-"Maine","1998",0
-"Marshall Islands","1998",0
-"Maryland","1998",0
-"Massachusetts","1998",0
-"Michigan","1998",0
-"Minnesota","1998",0
-"Mississippi","1998",0
-"Missouri","1998",0
-"Montana","1998",0
-"Nebraska","1998",0
-"Nevada","1998",0
-"New Hampshire","1998",0
-"New Jersey","1998",0
-"New Mexico","1998",0
-"New York","1998",0
-"North Carolina","1998",0
-"North Dakota","1998",0
-"Northern Mariana Islands","1998",0
-"Ohio","1998",0
-"Oklahoma","1998",0
-"Oregon","1998",0
-"Overseas","1998",0
-"Palau","1998",0
-"Pennsylvania","1998",0
-"Puerto Rico","1998",0
-"Rhode Island","1998",0
-"South Carolina","1998",0
-"South Dakota","1998",0
-"Tennessee","1998",0
-"Texas","1998",0
-"U.S. Virgin Islands","1998",0
-"Unknown/Blank","1998",0
-"Utah","1998",0
-"Vermont","1998",0
-"Virginia","1998",0
-"Washington","1998",0
-"West Virginia","1998",0
-"Wisconsin","1998",0
-"Wyoming","1998",0
-"Alabama","1999",0
-"Alaska","1999",0
-"American Samoa","1999",0
-"Arizona","1999",0
-"Arkansas","1999",0
-"California","1999",0
-"Colorado","1999",0
-"Connecticut","1999",0
-"Delaware","1999",0
-"District of Columbia","1999",0
-"Federated States of Micronesia","1999",0
-"Florida","1999",0
-"Georgia","1999",0
-"Guam","1999",0
-"Hawaii","1999",0
-"Idaho","1999",0
-"Illinois","1999",0
-"Indiana","1999",0
-"Iowa","1999",0
-"Kansas","1999",0
-"Kentucky","1999",0
-"Louisiana","1999",0
-"Maine","1999",0
-"Marshall Islands","1999",0
-"Maryland","1999",0
-"Massachusetts","1999",0
-"Michigan","1999",0
-"Minnesota","1999",0
-"Mississippi","1999",0
-"Missouri","1999",0
-"Montana","1999",0
-"Nebraska","1999",0
-"Nevada","1999",0
-"New Hampshire","1999",0
-"New Jersey","1999",0
-"New Mexico","1999",0
-"New York","1999",0
-"North Carolina","1999",0
-"North Dakota","1999",0
-"Northern Mariana Islands","1999",0
-"Ohio","1999",0
-"Oklahoma","1999",0
-"Oregon","1999",0
-"Overseas","1999",0
-"Palau","1999",0
-"Pennsylvania","1999",0
-"Puerto Rico","1999",0
-"Rhode Island","1999",0
-"South Carolina","1999",0
-"South Dakota","1999",0
-"Tennessee","1999",0
-"Texas","1999",0
-"U.S. Virgin Islands","1999",0
-"Unknown/Blank","1999",0
-"Utah","1999",0
-"Vermont","1999",0
-"Virginia","1999",0
-"Washington","1999",0
-"West Virginia","1999",0
-"Wisconsin","1999",0
-"Wyoming","1999",0
-"Alabama","2000",0
-"Alaska","2000",0
-"American Samoa","2000",0
-"Arizona","2000",0
-"Arkansas","2000",0
-"California","2000",0
-"Colorado","2000",0
-"Connecticut","2000",0
-"Delaware","2000",0
-"District of Columbia","2000",0
-"Federated States of Micronesia","2000",0
-"Florida","2000",0
-"Georgia","2000",0
-"Guam","2000",0
-"Hawaii","2000",0
-"Idaho","2000",0
-"Illinois","2000",0
-"Indiana","2000",0
-"Iowa","2000",0
-"Kansas","2000",0
-"Kentucky","2000",0
-"Louisiana","2000",0
-"Maine","2000",0
-"Marshall Islands","2000",0
-"Maryland","2000",0
-"Massachusetts","2000",0
-"Michigan","2000",0
-"Minnesota","2000",0
-"Mississippi","2000",0
-"Missouri","2000",0
-"Montana","2000",0
-"Nebraska","2000",0
-"Nevada","2000",0
-"New Hampshire","2000",0
-"New Jersey","2000",0
-"New Mexico","2000",0
-"New York","2000",0
-"North Carolina","2000",0
-"North Dakota","2000",0
-"Northern Mariana Islands","2000",0
-"Ohio","2000",0
-"Oklahoma","2000",0
-"Oregon","2000",0
-"Overseas","2000",0
-"Palau","2000",0
-"Pennsylvania","2000",0
-"Puerto Rico","2000",0
-"Rhode Island","2000",0
-"South Carolina","2000",0
-"South Dakota","2000",0
-"Tennessee","2000",0
-"Texas","2000",0
-"U.S. Virgin Islands","2000",0
-"Unknown/Blank","2000",0
-"Utah","2000",0
-"Vermont","2000",0
-"Virginia","2000",0
-"Washington","2000",0
-"West Virginia","2000",0
-"Wisconsin","2000",0
-"Wyoming","2000",0
-"Alabama","2001",0
-"Alaska","2001",0
-"American Samoa","2001",0
-"Arizona","2001",0
-"Arkansas","2001",0
-"California","2001",0
-"Colorado","2001",0
-"Connecticut","2001",0
-"Delaware","2001",0
-"District of Columbia","2001",0
-"Federated States of Micronesia","2001",0
-"Florida","2001",0
-"Georgia","2001",0
-"Guam","2001",0
-"Hawaii","2001",0
-"Idaho","2001",0
-"Illinois","2001",0
-"Indiana","2001",0
-"Iowa","2001",0
-"Kansas","2001",0
-"Kentucky","2001",0
-"Louisiana","2001",0
-"Maine","2001",0
-"Marshall Islands","2001",0
-"Maryland","2001",0
-"Massachusetts","2001",0
-"Michigan","2001",0
-"Minnesota","2001",0
-"Mississippi","2001",0
-"Missouri","2001",0
-"Montana","2001",0
-"Nebraska","2001",0
-"Nevada","2001",0
-"New Hampshire","2001",0
-"New Jersey","2001",0
-"New Mexico","2001",0
-"New York","2001",0
-"North Carolina","2001",0
-"North Dakota","2001",0
-"Northern Mariana Islands","2001",0
-"Ohio","2001",0
-"Oklahoma","2001",0
-"Oregon","2001",0
-"Overseas","2001",0
-"Palau","2001",0
-"Pennsylvania","2001",0
-"Puerto Rico","2001",0
-"Rhode Island","2001",0
-"South Carolina","2001",0
-"South Dakota","2001",0
-"Tennessee","2001",0
-"Texas","2001",0
-"U.S. Virgin Islands","2001",0
-"Unknown/Blank","2001",0
-"Utah","2001",0
-"Vermont","2001",0
-"Virginia","2001",0
-"Washington","2001",0
-"West Virginia","2001",0
-"Wisconsin","2001",0
-"Wyoming","2001",0
-"Alabama","2002",0
-"Alaska","2002",0
-"American Samoa","2002",0
-"Arizona","2002",0
-"Arkansas","2002",0
-"California","2002",0
-"Colorado","2002",0
-"Connecticut","2002",0
-"Delaware","2002",0
-"District of Columbia","2002",0
-"Federated States of Micronesia","2002",0
-"Florida","2002",0
-"Georgia","2002",0
-"Guam","2002",0
-"Hawaii","2002",0
-"Idaho","2002",0
-"Illinois","2002",0
-"Indiana","2002",0
-"Iowa","2002",0
-"Kansas","2002",0
-"Kentucky","2002",0
-"Louisiana","2002",0
-"Maine","2002",0
-"Marshall Islands","2002",0
-"Maryland","2002",0
-"Massachusetts","2002",0
-"Michigan","2002",0
-"Minnesota","2002",0
-"Mississippi","2002",0
-"Missouri","2002",0
-"Montana","2002",0
-"Nebraska","2002",0
-"Nevada","2002",0
-"New Hampshire","2002",0
-"New Jersey","2002",0
-"New Mexico","2002",0
-"New York","2002",0
-"North Carolina","2002",0
-"North Dakota","2002",0
-"Northern Mariana Islands","2002",0
-"Ohio","2002",0
-"Oklahoma","2002",0
-"Oregon","2002",0
-"Overseas","2002",0
-"Palau","2002",0
-"Pennsylvania","2002",0
-"Puerto Rico","2002",0
-"Rhode Island","2002",0
-"South Carolina","2002",0
-"South Dakota","2002",0
-"Tennessee","2002",0
-"Texas","2002",0
-"U.S. Virgin Islands","2002",0
-"Unknown/Blank","2002",0
-"Utah","2002",0
-"Vermont","2002",0
-"Virginia","2002",0
-"Washington","2002",0
-"West Virginia","2002",0
-"Wisconsin","2002",0
-"Wyoming","2002",0
-"Alabama","2003",15
-"Alaska","2003",0
-"American Samoa","2003",0
-"Arizona","2003",16
-"Arkansas","2003",2
-"California","2003",432
-"Colorado","2003",49
-"Connecticut","2003",23
-"Delaware","2003",5
-"District of Columbia","2003",3
-"Federated States of Micronesia","2003",0
-"Florida","2003",58
-"Georgia","2003",30
-"Guam","2003",0
-"Hawaii","2003",1
-"Idaho","2003",0
-"Illinois","2003",27
-"Indiana","2003",3
-"Iowa","2003",24
-"Kansas","2003",0
-"Kentucky","2003",7
-"Louisiana","2003",0
-"Maine","2003",4
-"Marshall Islands","2003",0
-"Maryland","2003",47
-"Massachusetts","2003",599
-"Michigan","2003",100
-"Minnesota","2003",166
-"Mississippi","2003",1
-"Missouri","2003",93
-"Montana","2003",0
-"Nebraska","2003",137
-"Nevada","2003",1
-"New Hampshire","2003",1
-"New Jersey","2003",288
-"New Mexico","2003",0
-"New York","2003",1207
-"North Carolina","2003",91
-"North Dakota","2003",0
-"Northern Mariana Islands","2003",0
-"Ohio","2003",40
-"Oklahoma","2003",2
-"Oregon","2003",1
-"Overseas","2003",0
-"Palau","2003",0
-"Pennsylvania","2003",129
-"Puerto Rico","2003",17
-"Rhode Island","2003",2
-"South Carolina","2003",4
-"South Dakota","2003",4
-"Tennessee","2003",16
-"Texas","2003",59
-"U.S. Virgin Islands","2003",0
-"Unknown/Blank","2003",10
-"Utah","2003",2
-"Vermont","2003",3
-"Virginia","2003",11
-"Washington","2003",493
-"West Virginia","2003",1
-"Wisconsin","2003",43
-"Wyoming","2003",0
-"Alabama","2004",16
-"Alaska","2004",0
-"American Samoa","2004",0
-"Arizona","2004",17
-"Arkansas","2004",1
-"California","2004",819
-"Colorado","2004",61
-"Connecticut","2004",43
-"Delaware","2004",2
-"District of Columbia","2004",0
-"Federated States of Micronesia","2004",0
-"Florida","2004",109
-"Georgia","2004",38
-"Guam","2004",1
-"Hawaii","2004",0
-"Idaho","2004",0
-"Illinois","2004",50
-"Indiana","2004",4
-"Iowa","2004",17
-"Kansas","2004",3
-"Kentucky","2004",10
-"Louisiana","2004",4
-"Maine","2004",1
-"Marshall Islands","2004",0
-"Maryland","2004",55
-"Massachusetts","2004",777
-"Michigan","2004",108
-"Minnesota","2004",468
-"Mississippi","2004",0
-"Missouri","2004",134
-"Montana","2004",4
-"Nebraska","2004",347
-"Nevada","2004",2
-"New Hampshire","2004",3
-"New Jersey","2004",315
-"New Mexico","2004",0
-"New York","2004",1374
-"North Carolina","2004",63
-"North Dakota","2004",0
-"Northern Mariana Islands","2004",0
-"Ohio","2004",35
-"Oklahoma","2004",6
-"Oregon","2004",1
-"Overseas","2004",0
-"Palau","2004",0
-"Pennsylvania","2004",84
-"Puerto Rico","2004",58
-"Rhode Island","2004",0
-"South Carolina","2004",0
-"South Dakota","2004",2
-"Tennessee","2004",52
-"Texas","2004",96
-"U.S. Virgin Islands","2004",0
-"Unknown/Blank","2004",69
-"Utah","2004",0
-"Vermont","2004",0
-"Virginia","2004",85
-"Washington","2004",327
-"West Virginia","2004",3
-"Wisconsin","2004",41
-"Wyoming","2004",0
-"Alabama","2005",37
-"Alaska","2005",0
-"American Samoa","2005",0
-"Arizona","2005",19
-"Arkansas","2005",2
-"California","2005",948
-"Colorado","2005",53
-"Connecticut","2005",55
-"Delaware","2005",2
-"District of Columbia","2005",2
-"Federated States of Micronesia","2005",0
-"Florida","2005",146
-"Georgia","2005",58
-"Guam","2005",3
-"Hawaii","2005",0
-"Idaho","2005",0
-"Illinois","2005",252
-"Indiana","2005",7
-"Iowa","2005",7
-"Kansas","2005",2
-"Kentucky","2005",3
-"Louisiana","2005",5
-"Maine","2005",0
-"Marshall Islands","2005",0
-"Maryland","2005",52
-"Massachusetts","2005",999
-"Michigan","2005",119
-"Minnesota","2005",300
-"Mississippi","2005",4
-"Missouri","2005",287
-"Montana","2005",10
-"Nebraska","2005",623
-"Nevada","2005",1
-"New Hampshire","2005",11
-"New Jersey","2005",523
-"New Mexico","2005",0
-"New York","2005",1697
-"North Carolina","2005",56
-"North Dakota","2005",6
-"Northern Mariana Islands","2005",0
-"Ohio","2005",47
-"Oklahoma","2005",5
-"Oregon","2005",1
-"Overseas","2005",0
-"Palau","2005",0
-"Pennsylvania","2005",69
-"Puerto Rico","2005",22
-"Rhode Island","2005",0
-"South Carolina","2005",0
-"South Dakota","2005",0
-"Tennessee","2005",48
-"Texas","2005",101
-"U.S. Virgin Islands","2005",0
-"Unknown/Blank","2005",16
-"Utah","2005",10
-"Vermont","2005",2
-"Virginia","2005",73
-"Washington","2005",197
-"West Virginia","2005",0
-"Wisconsin","2005",55
-"Wyoming","2005",1
-"Alabama","2006",53
-"Alaska","2006",0
-"American Samoa","2006",0
-"Arizona","2006",12
-"Arkansas","2006",0
-"California","2006",1027
-"Colorado","2006",64
-"Connecticut","2006",128
-"Delaware","2006",5
-"District of Columbia","2006",1
-"Federated States of Micronesia","2006",0
-"Florida","2006",284
-"Georgia","2006",64
-"Guam","2006",1
-"Hawaii","2006",2
-"Idaho","2006",3
-"Illinois","2006",184
-"Indiana","2006",6
-"Iowa","2006",37
-"Kansas","2006",2
-"Kentucky","2006",5
-"Louisiana","2006",2
-"Maine","2006",1
-"Marshall Islands","2006",0
-"Maryland","2006",35
-"Massachusetts","2006",1062
-"Michigan","2006",115
-"Minnesota","2006",327
-"Mississippi","2006",3
-"Missouri","2006",469
-"Montana","2006",2
-"Nebraska","2006",773
-"Nevada","2006",11
-"New Hampshire","2006",6
-"New Jersey","2006",590
-"New Mexico","2006",3
-"New York","2006",1828
-"North Carolina","2006",41
-"North Dakota","2006",5
-"Northern Mariana Islands","2006",0
-"Ohio","2006",84
-"Oklahoma","2006",4
-"Oregon","2006",2
-"Overseas","2006",0
-"Palau","2006",0
-"Pennsylvania","2006",96
-"Puerto Rico","2006",30
-"Rhode Island","2006",2
-"South Carolina","2006",0
-"South Dakota","2006",1
-"Tennessee","2006",22
-"Texas","2006",129
-"U.S. Virgin Islands","2006",0
-"Unknown/Blank","2006",43
-"Utah","2006",5
-"Vermont","2006",0
-"Virginia","2006",310
-"Washington","2006",155
-"West Virginia","2006",2
-"Wisconsin","2006",93
-"Wyoming","2006",0
-"Alabama","2007",61
-"Alaska","2007",0
-"American Samoa","2007",0
-"Arizona","2007",10
-"Arkansas","2007",6
-"California","2007",1373
-"Colorado","2007",299
-"Connecticut","2007",197
-"Delaware","2007",3
-"District of Columbia","2007",2
-"Federated States of Micronesia","2007",0
-"Florida","2007",304
-"Georgia","2007",50
-"Guam","2007",0
-"Hawaii","2007",0
-"Idaho","2007",2
-"Illinois","2007",494
-"Indiana","2007",16
-"Iowa","2007",69
-"Kansas","2007",3
-"Kentucky","2007",6
-"Louisiana","2007",3
-"Maine","2007",2
-"Marshall Islands","2007",0
-"Maryland","2007",72
-"Massachusetts","2007",1879
-"Michigan","2007",173
-"Minnesota","2007",370
-"Mississippi","2007",3
-"Missouri","2007",1199
-"Montana","2007",1
-"Nebraska","2007",913
-"Nevada","2007",7
-"New Hampshire","2007",2
-"New Jersey","2007",813
-"New Mexico","2007",4
-"New York","2007",2239
-"North Carolina","2007",74
-"North Dakota","2007",4
-"Northern Mariana Islands","2007",0
-"Ohio","2007",135
-"Oklahoma","2007",16
-"Oregon","2007",4
-"Overseas","2007",0
-"Palau","2007",0
-"Pennsylvania","2007",140
-"Puerto Rico","2007",30
-"Rhode Island","2007",0
-"South Carolina","2007",6
-"South Dakota","2007",2
-"Tennessee","2007",69
-"Texas","2007",322
-"U.S. Virgin Islands","2007",0
-"Unknown/Blank","2007",44
-"Utah","2007",8
-"Vermont","2007",2
-"Virginia","2007",1045
-"Washington","2007",188
-"West Virginia","2007",0
-"Wisconsin","2007",207
-"Wyoming","2007",0
-"Alabama","2008",51
-"Alaska","2008",0
-"American Samoa","2008",0
-"Arizona","2008",7
-"Arkansas","2008",0
-"California","2008",1172
-"Colorado","2008",289
-"Connecticut","2008",324
-"Delaware","2008",1
-"District of Columbia","2008",0
-"Federated States of Micronesia","2008",0
-"Florida","2008",685
-"Georgia","2008",28
-"Guam","2008",0
-"Hawaii","2008",2
-"Idaho","2008",1
-"Illinois","2008",339
-"Indiana","2008",25
-"Iowa","2008",69
-"Kansas","2008",4
-"Kentucky","2008",12
-"Louisiana","2008",0
-"Maine","2008",1
-"Marshall Islands","2008",0
-"Maryland","2008",65
-"Massachusetts","2008",2638
-"Michigan","2008",181
-"Minnesota","2008",705
-"Mississippi","2008",3
-"Missouri","2008",1151
-"Montana","2008",3
-"Nebraska","2008",1008
-"Nevada","2008",2
-"New Hampshire","2008",0
-"New Jersey","2008",974
-"New Mexico","2008",3
-"New York","2008",2731
-"North Carolina","2008",243
-"North Dakota","2008",3
-"Northern Mariana Islands","2008",0
-"Ohio","2008",87
-"Oklahoma","2008",2
-"Oregon","2008",2
-"Overseas","2008",0
-"Palau","2008",0
-"Pennsylvania","2008",143
-"Puerto Rico","2008",31
-"Rhode Island","2008",0
-"South Carolina","2008",9
-"South Dakota","2008",1
-"Tennessee","2008",96
-"Texas","2008",578
-"U.S. Virgin Islands","2008",0
-"Unknown/Blank","2008",28
-"Utah","2008",218
-"Vermont","2008",5
-"Virginia","2008",923
-"Washington","2008",130
-"West Virginia","2008",9
-"Wisconsin","2008",121
-"Wyoming","2008",0
-"Alabama","2009",78
-"Alaska","2009",0
-"American Samoa","2009",0
-"Arizona","2009",312
-"Arkansas","2009",2
-"California","2009",1292
-"Colorado","2009",347
-"Connecticut","2009",185
-"Delaware","2009",1
-"District of Columbia","2009",2
-"Federated States of Micronesia","2009",0
-"Florida","2009",560
-"Georgia","2009",37
-"Guam","2009",0
-"Hawaii","2009",1
-"Idaho","2009",5
-"Illinois","2009",452
-"Indiana","2009",27
-"Iowa","2009",71
-"Kansas","2009",6
-"Kentucky","2009",18
-"Louisiana","2009",2
-"Maine","2009",6
-"Marshall Islands","2009",0
-"Maryland","2009",33
-"Massachusetts","2009",3134
-"Michigan","2009",492
-"Minnesota","2009",654
-"Mississippi","2009",6
-"Missouri","2009",1377
-"Montana","2009",7
-"Nebraska","2009",864
-"Nevada","2009",0
-"New Hampshire","2009",0
-"New Jersey","2009",1461
-"New Mexico","2009",0
-"New York","2009",2979
-"North Carolina","2009",272
-"North Dakota","2009",3
-"Northern Mariana Islands","2009",0
-"Ohio","2009",78
-"Oklahoma","2009",2
-"Oregon","2009",1
-"Overseas","2009",0
-"Palau","2009",0
-"Pennsylvania","2009",227
-"Puerto Rico","2009",37
-"Rhode Island","2009",2
-"South Carolina","2009",3
-"South Dakota","2009",0
-"Tennessee","2009",152
-"Texas","2009",436
-"U.S. Virgin Islands","2009",0
-"Unknown/Blank","2009",19
-"Utah","2009",1217
-"Vermont","2009",6
-"Virginia","2009",922
-"Washington","2009",482
-"West Virginia","2009",0
-"Wisconsin","2009",111
-"Wyoming","2009",0
-"Alabama","2010",70
-"Alaska","2010",0
-"American Samoa","2010",0
-"Arizona","2010",772
-"Arkansas","2010",0
-"California","2010",755
-"Colorado","2010",130
-"Connecticut","2010",72
-"Delaware","2010",1
-"District of Columbia","2010",1
-"Federated States of Micronesia","2010",0
-"Florida","2010",222
-"Georgia","2010",19
-"Guam","2010",0
-"Hawaii","2010",0
-"Idaho","2010",1
-"Illinois","2010",167
-"Indiana","2010",13
-"Iowa","2010",46
-"Kansas","2010",2
-"Kentucky","2010",4
-"Louisiana","2010",0
-"Maine","2010",0
-"Marshall Islands","2010",0
-"Maryland","2010",21
-"Massachusetts","2010",1648
-"Michigan","2010",65
-"Minnesota","2010",221
-"Mississippi","2010",0
-"Missouri","2010",723
-"Montana","2010",1
-"Nebraska","2010",379
-"Nevada","2010",0
-"New Hampshire","2010",2
-"New Jersey","2010",724
-"New Mexico","2010",0
-"New York","2010",1448
-"North Carolina","2010",10
-"North Dakota","2010",20
-"Northern Mariana Islands","2010",0
-"Ohio","2010",24
-"Oklahoma","2010",1
-"Oregon","2010",0
-"Overseas","2010",0
-"Palau","2010",0
-"Pennsylvania","2010",99
-"Puerto Rico","2010",23
-"Rhode Island","2010",0
-"South Carolina","2010",3
-"South Dakota","2010",1
-"Tennessee","2010",51
-"Texas","2010",225
-"U.S. Virgin Islands","2010",0
-"Unknown/Blank","2010",25
-"Utah","2010",739
-"Vermont","2010",0
-"Virginia","2010",362
-"Washington","2010",122
-"West Virginia","2010",1
-"Wisconsin","2010",80
-"Wyoming","2010",0
-"Alabama","2011",0
-"Alaska","2011",0
-"American Samoa","2011",0
-"Arizona","2011",0
-"Arkansas","2011",0
-"California","2011",0
-"Colorado","2011",0
-"Connecticut","2011",0
-"Delaware","2011",0
-"District of Columbia","2011",0
-"Federated States of Micronesia","2011",0
-"Florida","2011",0
-"Georgia","2011",0
-"Guam","2011",0
-"Hawaii","2011",0
-"Idaho","2011",0
-"Illinois","2011",0
-"Indiana","2011",0
-"Iowa","2011",0
-"Kansas","2011",0
-"Kentucky","2011",0
-"Louisiana","2011",0
-"Maine","2011",0
-"Marshall Islands","2011",0
-"Maryland","2011",0
-"Massachusetts","2011",0
-"Michigan","2011",0
-"Minnesota","2011",0
-"Mississippi","2011",0
-"Missouri","2011",0
-"Montana","2011",0
-"Nebraska","2011",0
-"Nevada","2011",0
-"New Hampshire","2011",0
-"New Jersey","2011",0
-"New Mexico","2011",0
-"New York","2011",0
-"North Carolina","2011",0
-"North Dakota","2011",0
-"Northern Mariana Islands","2011",0
-"Ohio","2011",0
-"Oklahoma","2011",0
-"Oregon","2011",0
-"Overseas","2011",0
-"Palau","2011",0
-"Pennsylvania","2011",0
-"Puerto Rico","2011",0
-"Rhode Island","2011",0
-"South Carolina","2011",0
-"South Dakota","2011",0
-"Tennessee","2011",0
-"Texas","2011",0
-"U.S. Virgin Islands","2011",0
-"Unknown/Blank","2011",0
-"Utah","2011",0
-"Vermont","2011",0
-"Virginia","2011",0
-"Washington","2011",0
-"West Virginia","2011",0
-"Wisconsin","2011",0
-"Wyoming","2011",0
-"Alabama","2012",9
-"Alaska","2012",0
-"American Samoa","2012",0
-"Arizona","2012",198
-"Arkansas","2012",3
-"California","2012",173
-"Colorado","2012",11
-"Connecticut","2012",41
-"Delaware","2012",0
-"District of Columbia","2012",0
-"Federated States of Micronesia","2012",0
-"Florida","2012",64
-"Georgia","2012",17
-"Guam","2012",0
-"Hawaii","2012",3
-"Idaho","2012",1
-"Illinois","2012",118
-"Indiana","2012",11
-"Iowa","2012",6
-"Kansas","2012",4
-"Kentucky","2012",2
-"Louisiana","2012",4
-"Maine","2012",1
-"Marshall Islands","2012",0
-"Maryland","2012",3
-"Massachusetts","2012",16
-"Michigan","2012",3
-"Minnesota","2012",36
-"Mississippi","2012",2
-"Missouri","2012",15
-"Montana","2012",1
-"Nebraska","2012",1
-"Nevada","2012",5
-"New Hampshire","2012",3
-"New Jersey","2012",144
-"New Mexico","2012",2
-"New York","2012",125
-"North Carolina","2012",5
-"North Dakota","2012",0
-"Northern Mariana Islands","2012",0
-"Ohio","2012",9
-"Oklahoma","2012",3
-"Oregon","2012",9
-"Overseas","2012",0
-"Palau","2012",0
-"Pennsylvania","2012",26
-"Puerto Rico","2012",2
-"Rhode Island","2012",0
-"South Carolina","2012",9
-"South Dakota","2012",1
-"Tennessee","2012",16
-"Texas","2012",46
-"U.S. Virgin Islands","2012",0
-"Unknown/Blank","2012",12
-"Utah","2012",1
-"Vermont","2012",0
-"Virginia","2012",11
-"Washington","2012",9
-"West Virginia","2012",1
-"Wisconsin","2012",6
-"Wyoming","2012",0
-"Alabama","2013",100
-"Alaska","2013",3
-"American Samoa","2013",2
-"Arizona","2013",492
-"Arkansas","2013",12
-"California","2013",1294
-"Colorado","2013",382
-"Connecticut","2013",950
-"Delaware","2013",110
-"District of Columbia","2013",55
-"Federated States of Micronesia","2013",0
-"Florida","2013",1068
-"Georgia","2013",126
-"Guam","2013",0
-"Hawaii","2013",10
-"Idaho","2013",14
-"Illinois","2013",291
-"Indiana","2013",60
-"Iowa","2013",41
-"Kansas","2013",22
-"Kentucky","2013",66
-"Louisiana","2013",42
-"Maine","2013",11
-"Marshall Islands","2013",0
-"Maryland","2013",97
-"Massachusetts","2013",2362
-"Michigan","2013",111
-"Minnesota","2013",433
-"Mississippi","2013",11
-"Missouri","2013",124
-"Montana","2013",12
-"Nebraska","2013",462
-"Nevada","2013",22
-"New Hampshire","2013",17
-"New Jersey","2013",1241
-"New Mexico","2013",15
-"New York","2013",1892
-"North Carolina","2013",106
-"North Dakota","2013",6
-"Northern Mariana Islands","2013",0
-"Ohio","2013",133
-"Oklahoma","2013",17
-"Oregon","2013",26
-"Overseas","2013",0
-"Palau","2013",0
-"Pennsylvania","2013",454
-"Puerto Rico","2013",48
-"Rhode Island","2013",1864
-"South Carolina","2013",28
-"South Dakota","2013",3
-"Tennessee","2013",47
-"Texas","2013",531
-"U.S. Virgin Islands","2013",0
-"Unknown/Blank","2013",54
-"Utah","2013",1879
-"Vermont","2013",9
-"Virginia","2013",549
-"Washington","2013",320
-"West Virginia","2013",7
-"Wisconsin","2013",103
-"Wyoming","2013",1
-"Alabama","2014",69
-"Alaska","2014",4
-"American Samoa","2014",0
-"Arizona","2014",374
-"Arkansas","2014",22
-"California","2014",3015
-"Colorado","2014",542
-"Connecticut","2014",619
-"Delaware","2014",158
-"District of Columbia","2014",76
-"Federated States of Micronesia","2014",0
-"Florida","2014",1339
-"Georgia","2014",188
-"Guam","2014",0
-"Hawaii","2014",14
-"Idaho","2014",19
-"Illinois","2014",489
-"Indiana","2014",117
-"Iowa","2014",82
-"Kansas","2014",29
-"Kentucky","2014",110
-"Louisiana","2014",50
-"Maine","2014",11
-"Marshall Islands","2014",0
-"Maryland","2014",178
-"Massachusetts","2014",2884
-"Michigan","2014",117
-"Minnesota","2014",509
-"Mississippi","2014",19
-"Missouri","2014",1282
-"Montana","2014",15
-"Nebraska","2014",896
-"Nevada","2014",62
-"New Hampshire","2014",33
-"New Jersey","2014",1436
-"New Mexico","2014",25
-"New York","2014",2815
-"North Carolina","2014",178
-"North Dakota","2014",2
-"Northern Mariana Islands","2014",0
-"Ohio","2014",166
-"Oklahoma","2014",44
-"Oregon","2014",63
-"Overseas","2014",0
-"Palau","2014",0
-"Pennsylvania","2014",691
-"Puerto Rico","2014",67
-"Rhode Island","2014",2409
-"South Carolina","2014",43
-"South Dakota","2014",4
-"Tennessee","2014",69
-"Texas","2014",855
-"U.S. Virgin Islands","2014",0
-"Unknown/Blank","2014",49
-"Utah","2014",5197
-"Vermont","2014",13
-"Virginia","2014",781
-"Washington","2014",474
-"West Virginia","2014",14
-"Wisconsin","2014",183
-"Wyoming","2014",4
+"Alabama",1996,0
+"Alaska",1996,0
+"American Samoa",1996,0
+"Arizona",1996,0
+"Arkansas",1996,0
+"California",1996,0
+"Colorado",1996,0
+"Connecticut",1996,0
+"Delaware",1996,0
+"District of Columbia",1996,0
+"Federated States of Micronesia",1996,0
+"Florida",1996,0
+"Georgia",1996,0
+"Guam",1996,0
+"Hawaii",1996,0
+"Idaho",1996,0
+"Illinois",1996,0
+"Indiana",1996,0
+"Iowa",1996,0
+"Kansas",1996,0
+"Kentucky",1996,0
+"Louisiana",1996,0
+"Maine",1996,0
+"Marshall Islands",1996,0
+"Maryland",1996,0
+"Massachusetts",1996,0
+"Michigan",1996,0
+"Minnesota",1996,0
+"Mississippi",1996,0
+"Missouri",1996,0
+"Montana",1996,0
+"Nebraska",1996,0
+"Nevada",1996,0
+"New Hampshire",1996,0
+"New Jersey",1996,0
+"New Mexico",1996,0
+"New York",1996,0
+"North Carolina",1996,0
+"North Dakota",1996,0
+"Northern Mariana Islands",1996,0
+"Ohio",1996,0
+"Oklahoma",1996,0
+"Oregon",1996,0
+"Overseas",1996,0
+"Palau",1996,0
+"Pennsylvania",1996,0
+"Puerto Rico",1996,0
+"Rhode Island",1996,0
+"South Carolina",1996,0
+"South Dakota",1996,0
+"Tennessee",1996,0
+"Texas",1996,0
+"U.S. Virgin Islands",1996,0
+"Unknown/Blank",1996,0
+"Utah",1996,0
+"Vermont",1996,0
+"Virginia",1996,0
+"Washington",1996,0
+"West Virginia",1996,0
+"Wisconsin",1996,0
+"Wyoming",1996,0
+"Alabama",1997,0
+"Alaska",1997,0
+"American Samoa",1997,0
+"Arizona",1997,0
+"Arkansas",1997,0
+"California",1997,0
+"Colorado",1997,0
+"Connecticut",1997,0
+"Delaware",1997,0
+"District of Columbia",1997,0
+"Federated States of Micronesia",1997,0
+"Florida",1997,0
+"Georgia",1997,0
+"Guam",1997,0
+"Hawaii",1997,0
+"Idaho",1997,0
+"Illinois",1997,0
+"Indiana",1997,0
+"Iowa",1997,0
+"Kansas",1997,0
+"Kentucky",1997,0
+"Louisiana",1997,0
+"Maine",1997,0
+"Marshall Islands",1997,0
+"Maryland",1997,0
+"Massachusetts",1997,0
+"Michigan",1997,0
+"Minnesota",1997,0
+"Mississippi",1997,0
+"Missouri",1997,0
+"Montana",1997,0
+"Nebraska",1997,0
+"Nevada",1997,0
+"New Hampshire",1997,0
+"New Jersey",1997,0
+"New Mexico",1997,0
+"New York",1997,0
+"North Carolina",1997,0
+"North Dakota",1997,0
+"Northern Mariana Islands",1997,0
+"Ohio",1997,0
+"Oklahoma",1997,0
+"Oregon",1997,0
+"Overseas",1997,0
+"Palau",1997,0
+"Pennsylvania",1997,0
+"Puerto Rico",1997,0
+"Rhode Island",1997,0
+"South Carolina",1997,0
+"South Dakota",1997,0
+"Tennessee",1997,0
+"Texas",1997,0
+"U.S. Virgin Islands",1997,0
+"Unknown/Blank",1997,0
+"Utah",1997,0
+"Vermont",1997,0
+"Virginia",1997,0
+"Washington",1997,0
+"West Virginia",1997,0
+"Wisconsin",1997,0
+"Wyoming",1997,0
+"Alabama",1998,0
+"Alaska",1998,0
+"American Samoa",1998,0
+"Arizona",1998,0
+"Arkansas",1998,0
+"California",1998,0
+"Colorado",1998,0
+"Connecticut",1998,0
+"Delaware",1998,0
+"District of Columbia",1998,0
+"Federated States of Micronesia",1998,0
+"Florida",1998,0
+"Georgia",1998,0
+"Guam",1998,0
+"Hawaii",1998,0
+"Idaho",1998,0
+"Illinois",1998,0
+"Indiana",1998,0
+"Iowa",1998,0
+"Kansas",1998,0
+"Kentucky",1998,0
+"Louisiana",1998,0
+"Maine",1998,0
+"Marshall Islands",1998,0
+"Maryland",1998,0
+"Massachusetts",1998,0
+"Michigan",1998,0
+"Minnesota",1998,0
+"Mississippi",1998,0
+"Missouri",1998,0
+"Montana",1998,0
+"Nebraska",1998,0
+"Nevada",1998,0
+"New Hampshire",1998,0
+"New Jersey",1998,0
+"New Mexico",1998,0
+"New York",1998,0
+"North Carolina",1998,0
+"North Dakota",1998,0
+"Northern Mariana Islands",1998,0
+"Ohio",1998,0
+"Oklahoma",1998,0
+"Oregon",1998,0
+"Overseas",1998,0
+"Palau",1998,0
+"Pennsylvania",1998,0
+"Puerto Rico",1998,0
+"Rhode Island",1998,0
+"South Carolina",1998,0
+"South Dakota",1998,0
+"Tennessee",1998,0
+"Texas",1998,0
+"U.S. Virgin Islands",1998,0
+"Unknown/Blank",1998,0
+"Utah",1998,0
+"Vermont",1998,0
+"Virginia",1998,0
+"Washington",1998,0
+"West Virginia",1998,0
+"Wisconsin",1998,0
+"Wyoming",1998,0
+"Alabama",1999,0
+"Alaska",1999,0
+"American Samoa",1999,0
+"Arizona",1999,0
+"Arkansas",1999,0
+"California",1999,0
+"Colorado",1999,0
+"Connecticut",1999,0
+"Delaware",1999,0
+"District of Columbia",1999,0
+"Federated States of Micronesia",1999,0
+"Florida",1999,0
+"Georgia",1999,0
+"Guam",1999,0
+"Hawaii",1999,0
+"Idaho",1999,0
+"Illinois",1999,0
+"Indiana",1999,0
+"Iowa",1999,0
+"Kansas",1999,0
+"Kentucky",1999,0
+"Louisiana",1999,0
+"Maine",1999,0
+"Marshall Islands",1999,0
+"Maryland",1999,0
+"Massachusetts",1999,0
+"Michigan",1999,0
+"Minnesota",1999,0
+"Mississippi",1999,0
+"Missouri",1999,0
+"Montana",1999,0
+"Nebraska",1999,0
+"Nevada",1999,0
+"New Hampshire",1999,0
+"New Jersey",1999,0
+"New Mexico",1999,0
+"New York",1999,0
+"North Carolina",1999,0
+"North Dakota",1999,0
+"Northern Mariana Islands",1999,0
+"Ohio",1999,0
+"Oklahoma",1999,0
+"Oregon",1999,0
+"Overseas",1999,0
+"Palau",1999,0
+"Pennsylvania",1999,0
+"Puerto Rico",1999,0
+"Rhode Island",1999,0
+"South Carolina",1999,0
+"South Dakota",1999,0
+"Tennessee",1999,0
+"Texas",1999,0
+"U.S. Virgin Islands",1999,0
+"Unknown/Blank",1999,0
+"Utah",1999,0
+"Vermont",1999,0
+"Virginia",1999,0
+"Washington",1999,0
+"West Virginia",1999,0
+"Wisconsin",1999,0
+"Wyoming",1999,0
+"Alabama",2000,0
+"Alaska",2000,0
+"American Samoa",2000,0
+"Arizona",2000,0
+"Arkansas",2000,0
+"California",2000,0
+"Colorado",2000,0
+"Connecticut",2000,0
+"Delaware",2000,0
+"District of Columbia",2000,0
+"Federated States of Micronesia",2000,0
+"Florida",2000,0
+"Georgia",2000,0
+"Guam",2000,0
+"Hawaii",2000,0
+"Idaho",2000,0
+"Illinois",2000,0
+"Indiana",2000,0
+"Iowa",2000,0
+"Kansas",2000,0
+"Kentucky",2000,0
+"Louisiana",2000,0
+"Maine",2000,0
+"Marshall Islands",2000,0
+"Maryland",2000,0
+"Massachusetts",2000,0
+"Michigan",2000,0
+"Minnesota",2000,0
+"Mississippi",2000,0
+"Missouri",2000,0
+"Montana",2000,0
+"Nebraska",2000,0
+"Nevada",2000,0
+"New Hampshire",2000,0
+"New Jersey",2000,0
+"New Mexico",2000,0
+"New York",2000,0
+"North Carolina",2000,0
+"North Dakota",2000,0
+"Northern Mariana Islands",2000,0
+"Ohio",2000,0
+"Oklahoma",2000,0
+"Oregon",2000,0
+"Overseas",2000,0
+"Palau",2000,0
+"Pennsylvania",2000,0
+"Puerto Rico",2000,0
+"Rhode Island",2000,0
+"South Carolina",2000,0
+"South Dakota",2000,0
+"Tennessee",2000,0
+"Texas",2000,0
+"U.S. Virgin Islands",2000,0
+"Unknown/Blank",2000,0
+"Utah",2000,0
+"Vermont",2000,0
+"Virginia",2000,0
+"Washington",2000,0
+"West Virginia",2000,0
+"Wisconsin",2000,0
+"Wyoming",2000,0
+"Alabama",2001,0
+"Alaska",2001,0
+"American Samoa",2001,0
+"Arizona",2001,0
+"Arkansas",2001,0
+"California",2001,0
+"Colorado",2001,0
+"Connecticut",2001,0
+"Delaware",2001,0
+"District of Columbia",2001,0
+"Federated States of Micronesia",2001,0
+"Florida",2001,0
+"Georgia",2001,0
+"Guam",2001,0
+"Hawaii",2001,0
+"Idaho",2001,0
+"Illinois",2001,0
+"Indiana",2001,0
+"Iowa",2001,0
+"Kansas",2001,0
+"Kentucky",2001,0
+"Louisiana",2001,0
+"Maine",2001,0
+"Marshall Islands",2001,0
+"Maryland",2001,0
+"Massachusetts",2001,0
+"Michigan",2001,0
+"Minnesota",2001,0
+"Mississippi",2001,0
+"Missouri",2001,0
+"Montana",2001,0
+"Nebraska",2001,0
+"Nevada",2001,0
+"New Hampshire",2001,0
+"New Jersey",2001,0
+"New Mexico",2001,0
+"New York",2001,0
+"North Carolina",2001,0
+"North Dakota",2001,0
+"Northern Mariana Islands",2001,0
+"Ohio",2001,0
+"Oklahoma",2001,0
+"Oregon",2001,0
+"Overseas",2001,0
+"Palau",2001,0
+"Pennsylvania",2001,0
+"Puerto Rico",2001,0
+"Rhode Island",2001,0
+"South Carolina",2001,0
+"South Dakota",2001,0
+"Tennessee",2001,0
+"Texas",2001,0
+"U.S. Virgin Islands",2001,0
+"Unknown/Blank",2001,0
+"Utah",2001,0
+"Vermont",2001,0
+"Virginia",2001,0
+"Washington",2001,0
+"West Virginia",2001,0
+"Wisconsin",2001,0
+"Wyoming",2001,0
+"Alabama",2002,0
+"Alaska",2002,0
+"American Samoa",2002,0
+"Arizona",2002,0
+"Arkansas",2002,0
+"California",2002,0
+"Colorado",2002,0
+"Connecticut",2002,0
+"Delaware",2002,0
+"District of Columbia",2002,0
+"Federated States of Micronesia",2002,0
+"Florida",2002,0
+"Georgia",2002,0
+"Guam",2002,0
+"Hawaii",2002,0
+"Idaho",2002,0
+"Illinois",2002,0
+"Indiana",2002,0
+"Iowa",2002,0
+"Kansas",2002,0
+"Kentucky",2002,0
+"Louisiana",2002,0
+"Maine",2002,0
+"Marshall Islands",2002,0
+"Maryland",2002,0
+"Massachusetts",2002,0
+"Michigan",2002,0
+"Minnesota",2002,0
+"Mississippi",2002,0
+"Missouri",2002,0
+"Montana",2002,0
+"Nebraska",2002,0
+"Nevada",2002,0
+"New Hampshire",2002,0
+"New Jersey",2002,0
+"New Mexico",2002,0
+"New York",2002,0
+"North Carolina",2002,0
+"North Dakota",2002,0
+"Northern Mariana Islands",2002,0
+"Ohio",2002,0
+"Oklahoma",2002,0
+"Oregon",2002,0
+"Overseas",2002,0
+"Palau",2002,0
+"Pennsylvania",2002,0
+"Puerto Rico",2002,0
+"Rhode Island",2002,0
+"South Carolina",2002,0
+"South Dakota",2002,0
+"Tennessee",2002,0
+"Texas",2002,0
+"U.S. Virgin Islands",2002,0
+"Unknown/Blank",2002,0
+"Utah",2002,0
+"Vermont",2002,0
+"Virginia",2002,0
+"Washington",2002,0
+"West Virginia",2002,0
+"Wisconsin",2002,0
+"Wyoming",2002,0
+"Alabama",2003,15
+"Alaska",2003,0
+"American Samoa",2003,0
+"Arizona",2003,16
+"Arkansas",2003,2
+"California",2003,432
+"Colorado",2003,49
+"Connecticut",2003,23
+"Delaware",2003,5
+"District of Columbia",2003,3
+"Federated States of Micronesia",2003,0
+"Florida",2003,58
+"Georgia",2003,30
+"Guam",2003,0
+"Hawaii",2003,1
+"Idaho",2003,0
+"Illinois",2003,27
+"Indiana",2003,3
+"Iowa",2003,24
+"Kansas",2003,0
+"Kentucky",2003,7
+"Louisiana",2003,0
+"Maine",2003,4
+"Marshall Islands",2003,0
+"Maryland",2003,47
+"Massachusetts",2003,599
+"Michigan",2003,100
+"Minnesota",2003,166
+"Mississippi",2003,1
+"Missouri",2003,93
+"Montana",2003,0
+"Nebraska",2003,137
+"Nevada",2003,1
+"New Hampshire",2003,1
+"New Jersey",2003,288
+"New Mexico",2003,0
+"New York",2003,1207
+"North Carolina",2003,91
+"North Dakota",2003,0
+"Northern Mariana Islands",2003,0
+"Ohio",2003,40
+"Oklahoma",2003,2
+"Oregon",2003,1
+"Overseas",2003,0
+"Palau",2003,0
+"Pennsylvania",2003,129
+"Puerto Rico",2003,17
+"Rhode Island",2003,2
+"South Carolina",2003,4
+"South Dakota",2003,4
+"Tennessee",2003,16
+"Texas",2003,59
+"U.S. Virgin Islands",2003,0
+"Unknown/Blank",2003,10
+"Utah",2003,2
+"Vermont",2003,3
+"Virginia",2003,11
+"Washington",2003,493
+"West Virginia",2003,1
+"Wisconsin",2003,43
+"Wyoming",2003,0
+"Alabama",2004,16
+"Alaska",2004,0
+"American Samoa",2004,0
+"Arizona",2004,17
+"Arkansas",2004,1
+"California",2004,819
+"Colorado",2004,61
+"Connecticut",2004,43
+"Delaware",2004,2
+"District of Columbia",2004,0
+"Federated States of Micronesia",2004,0
+"Florida",2004,109
+"Georgia",2004,38
+"Guam",2004,1
+"Hawaii",2004,0
+"Idaho",2004,0
+"Illinois",2004,50
+"Indiana",2004,4
+"Iowa",2004,17
+"Kansas",2004,3
+"Kentucky",2004,10
+"Louisiana",2004,4
+"Maine",2004,1
+"Marshall Islands",2004,0
+"Maryland",2004,55
+"Massachusetts",2004,777
+"Michigan",2004,108
+"Minnesota",2004,468
+"Mississippi",2004,0
+"Missouri",2004,134
+"Montana",2004,4
+"Nebraska",2004,347
+"Nevada",2004,2
+"New Hampshire",2004,3
+"New Jersey",2004,315
+"New Mexico",2004,0
+"New York",2004,1374
+"North Carolina",2004,63
+"North Dakota",2004,0
+"Northern Mariana Islands",2004,0
+"Ohio",2004,35
+"Oklahoma",2004,6
+"Oregon",2004,1
+"Overseas",2004,0
+"Palau",2004,0
+"Pennsylvania",2004,84
+"Puerto Rico",2004,58
+"Rhode Island",2004,0
+"South Carolina",2004,0
+"South Dakota",2004,2
+"Tennessee",2004,52
+"Texas",2004,96
+"U.S. Virgin Islands",2004,0
+"Unknown/Blank",2004,69
+"Utah",2004,0
+"Vermont",2004,0
+"Virginia",2004,85
+"Washington",2004,327
+"West Virginia",2004,3
+"Wisconsin",2004,41
+"Wyoming",2004,0
+"Alabama",2005,37
+"Alaska",2005,0
+"American Samoa",2005,0
+"Arizona",2005,19
+"Arkansas",2005,2
+"California",2005,948
+"Colorado",2005,53
+"Connecticut",2005,55
+"Delaware",2005,2
+"District of Columbia",2005,2
+"Federated States of Micronesia",2005,0
+"Florida",2005,146
+"Georgia",2005,58
+"Guam",2005,3
+"Hawaii",2005,0
+"Idaho",2005,0
+"Illinois",2005,252
+"Indiana",2005,7
+"Iowa",2005,7
+"Kansas",2005,2
+"Kentucky",2005,3
+"Louisiana",2005,5
+"Maine",2005,0
+"Marshall Islands",2005,0
+"Maryland",2005,52
+"Massachusetts",2005,999
+"Michigan",2005,119
+"Minnesota",2005,300
+"Mississippi",2005,4
+"Missouri",2005,287
+"Montana",2005,10
+"Nebraska",2005,623
+"Nevada",2005,1
+"New Hampshire",2005,11
+"New Jersey",2005,523
+"New Mexico",2005,0
+"New York",2005,1697
+"North Carolina",2005,56
+"North Dakota",2005,6
+"Northern Mariana Islands",2005,0
+"Ohio",2005,47
+"Oklahoma",2005,5
+"Oregon",2005,1
+"Overseas",2005,0
+"Palau",2005,0
+"Pennsylvania",2005,69
+"Puerto Rico",2005,22
+"Rhode Island",2005,0
+"South Carolina",2005,0
+"South Dakota",2005,0
+"Tennessee",2005,48
+"Texas",2005,101
+"U.S. Virgin Islands",2005,0
+"Unknown/Blank",2005,16
+"Utah",2005,10
+"Vermont",2005,2
+"Virginia",2005,73
+"Washington",2005,197
+"West Virginia",2005,0
+"Wisconsin",2005,55
+"Wyoming",2005,1
+"Alabama",2006,53
+"Alaska",2006,0
+"American Samoa",2006,0
+"Arizona",2006,12
+"Arkansas",2006,0
+"California",2006,1027
+"Colorado",2006,64
+"Connecticut",2006,128
+"Delaware",2006,5
+"District of Columbia",2006,1
+"Federated States of Micronesia",2006,0
+"Florida",2006,284
+"Georgia",2006,64
+"Guam",2006,1
+"Hawaii",2006,2
+"Idaho",2006,3
+"Illinois",2006,184
+"Indiana",2006,6
+"Iowa",2006,37
+"Kansas",2006,2
+"Kentucky",2006,5
+"Louisiana",2006,2
+"Maine",2006,1
+"Marshall Islands",2006,0
+"Maryland",2006,35
+"Massachusetts",2006,1062
+"Michigan",2006,115
+"Minnesota",2006,327
+"Mississippi",2006,3
+"Missouri",2006,469
+"Montana",2006,2
+"Nebraska",2006,773
+"Nevada",2006,11
+"New Hampshire",2006,6
+"New Jersey",2006,590
+"New Mexico",2006,3
+"New York",2006,1828
+"North Carolina",2006,41
+"North Dakota",2006,5
+"Northern Mariana Islands",2006,0
+"Ohio",2006,84
+"Oklahoma",2006,4
+"Oregon",2006,2
+"Overseas",2006,0
+"Palau",2006,0
+"Pennsylvania",2006,96
+"Puerto Rico",2006,30
+"Rhode Island",2006,2
+"South Carolina",2006,0
+"South Dakota",2006,1
+"Tennessee",2006,22
+"Texas",2006,129
+"U.S. Virgin Islands",2006,0
+"Unknown/Blank",2006,43
+"Utah",2006,5
+"Vermont",2006,0
+"Virginia",2006,310
+"Washington",2006,155
+"West Virginia",2006,2
+"Wisconsin",2006,93
+"Wyoming",2006,0
+"Alabama",2007,61
+"Alaska",2007,0
+"American Samoa",2007,0
+"Arizona",2007,10
+"Arkansas",2007,6
+"California",2007,1373
+"Colorado",2007,299
+"Connecticut",2007,197
+"Delaware",2007,3
+"District of Columbia",2007,2
+"Federated States of Micronesia",2007,0
+"Florida",2007,304
+"Georgia",2007,50
+"Guam",2007,0
+"Hawaii",2007,0
+"Idaho",2007,2
+"Illinois",2007,494
+"Indiana",2007,16
+"Iowa",2007,69
+"Kansas",2007,3
+"Kentucky",2007,6
+"Louisiana",2007,3
+"Maine",2007,2
+"Marshall Islands",2007,0
+"Maryland",2007,72
+"Massachusetts",2007,1879
+"Michigan",2007,173
+"Minnesota",2007,370
+"Mississippi",2007,3
+"Missouri",2007,1199
+"Montana",2007,1
+"Nebraska",2007,913
+"Nevada",2007,7
+"New Hampshire",2007,2
+"New Jersey",2007,813
+"New Mexico",2007,4
+"New York",2007,2239
+"North Carolina",2007,74
+"North Dakota",2007,4
+"Northern Mariana Islands",2007,0
+"Ohio",2007,135
+"Oklahoma",2007,16
+"Oregon",2007,4
+"Overseas",2007,0
+"Palau",2007,0
+"Pennsylvania",2007,140
+"Puerto Rico",2007,30
+"Rhode Island",2007,0
+"South Carolina",2007,6
+"South Dakota",2007,2
+"Tennessee",2007,69
+"Texas",2007,322
+"U.S. Virgin Islands",2007,0
+"Unknown/Blank",2007,44
+"Utah",2007,8
+"Vermont",2007,2
+"Virginia",2007,1045
+"Washington",2007,188
+"West Virginia",2007,0
+"Wisconsin",2007,207
+"Wyoming",2007,0
+"Alabama",2008,51
+"Alaska",2008,0
+"American Samoa",2008,0
+"Arizona",2008,7
+"Arkansas",2008,0
+"California",2008,1172
+"Colorado",2008,289
+"Connecticut",2008,324
+"Delaware",2008,1
+"District of Columbia",2008,0
+"Federated States of Micronesia",2008,0
+"Florida",2008,685
+"Georgia",2008,28
+"Guam",2008,0
+"Hawaii",2008,2
+"Idaho",2008,1
+"Illinois",2008,339
+"Indiana",2008,25
+"Iowa",2008,69
+"Kansas",2008,4
+"Kentucky",2008,12
+"Louisiana",2008,0
+"Maine",2008,1
+"Marshall Islands",2008,0
+"Maryland",2008,65
+"Massachusetts",2008,2638
+"Michigan",2008,181
+"Minnesota",2008,705
+"Mississippi",2008,3
+"Missouri",2008,1151
+"Montana",2008,3
+"Nebraska",2008,1008
+"Nevada",2008,2
+"New Hampshire",2008,0
+"New Jersey",2008,974
+"New Mexico",2008,3
+"New York",2008,2731
+"North Carolina",2008,243
+"North Dakota",2008,3
+"Northern Mariana Islands",2008,0
+"Ohio",2008,87
+"Oklahoma",2008,2
+"Oregon",2008,2
+"Overseas",2008,0
+"Palau",2008,0
+"Pennsylvania",2008,143
+"Puerto Rico",2008,31
+"Rhode Island",2008,0
+"South Carolina",2008,9
+"South Dakota",2008,1
+"Tennessee",2008,96
+"Texas",2008,578
+"U.S. Virgin Islands",2008,0
+"Unknown/Blank",2008,28
+"Utah",2008,218
+"Vermont",2008,5
+"Virginia",2008,923
+"Washington",2008,130
+"West Virginia",2008,9
+"Wisconsin",2008,121
+"Wyoming",2008,0
+"Alabama",2009,78
+"Alaska",2009,0
+"American Samoa",2009,0
+"Arizona",2009,312
+"Arkansas",2009,2
+"California",2009,1292
+"Colorado",2009,347
+"Connecticut",2009,185
+"Delaware",2009,1
+"District of Columbia",2009,2
+"Federated States of Micronesia",2009,0
+"Florida",2009,560
+"Georgia",2009,37
+"Guam",2009,0
+"Hawaii",2009,1
+"Idaho",2009,5
+"Illinois",2009,452
+"Indiana",2009,27
+"Iowa",2009,71
+"Kansas",2009,6
+"Kentucky",2009,18
+"Louisiana",2009,2
+"Maine",2009,6
+"Marshall Islands",2009,0
+"Maryland",2009,33
+"Massachusetts",2009,3134
+"Michigan",2009,492
+"Minnesota",2009,654
+"Mississippi",2009,6
+"Missouri",2009,1377
+"Montana",2009,7
+"Nebraska",2009,864
+"Nevada",2009,0
+"New Hampshire",2009,0
+"New Jersey",2009,1461
+"New Mexico",2009,0
+"New York",2009,2979
+"North Carolina",2009,272
+"North Dakota",2009,3
+"Northern Mariana Islands",2009,0
+"Ohio",2009,78
+"Oklahoma",2009,2
+"Oregon",2009,1
+"Overseas",2009,0
+"Palau",2009,0
+"Pennsylvania",2009,227
+"Puerto Rico",2009,37
+"Rhode Island",2009,2
+"South Carolina",2009,3
+"South Dakota",2009,0
+"Tennessee",2009,152
+"Texas",2009,436
+"U.S. Virgin Islands",2009,0
+"Unknown/Blank",2009,19
+"Utah",2009,1217
+"Vermont",2009,6
+"Virginia",2009,922
+"Washington",2009,482
+"West Virginia",2009,0
+"Wisconsin",2009,111
+"Wyoming",2009,0
+"Alabama",2010,70
+"Alaska",2010,0
+"American Samoa",2010,0
+"Arizona",2010,772
+"Arkansas",2010,0
+"California",2010,755
+"Colorado",2010,130
+"Connecticut",2010,72
+"Delaware",2010,1
+"District of Columbia",2010,1
+"Federated States of Micronesia",2010,0
+"Florida",2010,222
+"Georgia",2010,19
+"Guam",2010,0
+"Hawaii",2010,0
+"Idaho",2010,1
+"Illinois",2010,167
+"Indiana",2010,13
+"Iowa",2010,46
+"Kansas",2010,2
+"Kentucky",2010,4
+"Louisiana",2010,0
+"Maine",2010,0
+"Marshall Islands",2010,0
+"Maryland",2010,21
+"Massachusetts",2010,1648
+"Michigan",2010,65
+"Minnesota",2010,221
+"Mississippi",2010,0
+"Missouri",2010,723
+"Montana",2010,1
+"Nebraska",2010,379
+"Nevada",2010,0
+"New Hampshire",2010,2
+"New Jersey",2010,724
+"New Mexico",2010,0
+"New York",2010,1448
+"North Carolina",2010,10
+"North Dakota",2010,20
+"Northern Mariana Islands",2010,0
+"Ohio",2010,24
+"Oklahoma",2010,1
+"Oregon",2010,0
+"Overseas",2010,0
+"Palau",2010,0
+"Pennsylvania",2010,99
+"Puerto Rico",2010,23
+"Rhode Island",2010,0
+"South Carolina",2010,3
+"South Dakota",2010,1
+"Tennessee",2010,51
+"Texas",2010,225
+"U.S. Virgin Islands",2010,0
+"Unknown/Blank",2010,25
+"Utah",2010,739
+"Vermont",2010,0
+"Virginia",2010,362
+"Washington",2010,122
+"West Virginia",2010,1
+"Wisconsin",2010,80
+"Wyoming",2010,0
+"Alabama",2011,0
+"Alaska",2011,0
+"American Samoa",2011,0
+"Arizona",2011,0
+"Arkansas",2011,0
+"California",2011,0
+"Colorado",2011,0
+"Connecticut",2011,0
+"Delaware",2011,0
+"District of Columbia",2011,0
+"Federated States of Micronesia",2011,0
+"Florida",2011,0
+"Georgia",2011,0
+"Guam",2011,0
+"Hawaii",2011,0
+"Idaho",2011,0
+"Illinois",2011,0
+"Indiana",2011,0
+"Iowa",2011,0
+"Kansas",2011,0
+"Kentucky",2011,0
+"Louisiana",2011,0
+"Maine",2011,0
+"Marshall Islands",2011,0
+"Maryland",2011,0
+"Massachusetts",2011,0
+"Michigan",2011,0
+"Minnesota",2011,0
+"Mississippi",2011,0
+"Missouri",2011,0
+"Montana",2011,0
+"Nebraska",2011,0
+"Nevada",2011,0
+"New Hampshire",2011,0
+"New Jersey",2011,0
+"New Mexico",2011,0
+"New York",2011,0
+"North Carolina",2011,0
+"North Dakota",2011,0
+"Northern Mariana Islands",2011,0
+"Ohio",2011,0
+"Oklahoma",2011,0
+"Oregon",2011,0
+"Overseas",2011,0
+"Palau",2011,0
+"Pennsylvania",2011,0
+"Puerto Rico",2011,0
+"Rhode Island",2011,0
+"South Carolina",2011,0
+"South Dakota",2011,0
+"Tennessee",2011,0
+"Texas",2011,0
+"U.S. Virgin Islands",2011,0
+"Unknown/Blank",2011,0
+"Utah",2011,0
+"Vermont",2011,0
+"Virginia",2011,0
+"Washington",2011,0
+"West Virginia",2011,0
+"Wisconsin",2011,0
+"Wyoming",2011,0

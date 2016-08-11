@@ -1,115 +1,97 @@
 "Financial.Services.Involved","Year","Incidents"
-"Money Order","1996",0
-"Traveler's Check","1996",0
-"Money Transfer","1996",0
-"Other","1996",0
-"Unknown/Blank","1996",0
-"Currency Exchange","1996",0
-"Money Order","1997",0
-"Traveler's Check","1997",0
-"Money Transfer","1997",0
-"Other","1997",0
-"Unknown/Blank","1997",0
-"Currency Exchange","1997",0
-"Money Order","1998",0
-"Traveler's Check","1998",0
-"Money Transfer","1998",0
-"Other","1998",0
-"Unknown/Blank","1998",0
-"Currency Exchange","1998",0
-"Money Order","1999",0
-"Traveler's Check","1999",0
-"Money Transfer","1999",0
-"Other","1999",0
-"Unknown/Blank","1999",0
-"Currency Exchange","1999",0
-"Money Order","2000",0
-"Traveler's Check","2000",0
-"Money Transfer","2000",0
-"Other","2000",0
-"Unknown/Blank","2000",0
-"Currency Exchange","2000",0
-"Money Order","2001",0
-"Traveler's Check","2001",0
-"Money Transfer","2001",0
-"Other","2001",0
-"Unknown/Blank","2001",0
-"Currency Exchange","2001",0
-"Money Order","2002",549
-"Traveler's Check","2002",49
-"Money Transfer","2002",4769
-"Other","2002",179
-"Unknown/Blank","2002",223
-"Currency Exchange","2002",0
-"Money Order","2003",70024
-"Traveler's Check","2003",1149
-"Money Transfer","2003",129655
-"Other","2003",5118
-"Unknown/Blank","2003",4337
-"Currency Exchange","2003",0
-"Money Order","2004",90954
-"Traveler's Check","2004",1419
-"Money Transfer","2004",183728
-"Other","2004",15931
-"Unknown/Blank","2004",5016
-"Currency Exchange","2004",0
-"Money Order","2005",116196
-"Traveler's Check","2005",1183
-"Money Transfer","2005",232717
-"Other","2005",28970
-"Unknown/Blank","2005",5526
-"Currency Exchange","2005",0
-"Money Order","2006",172470
-"Traveler's Check","2006",2192
-"Money Transfer","2006",289722
-"Other","2006",26445
-"Unknown/Blank","2006",7318
-"Currency Exchange","2006",0
-"Money Order","2007",233880
-"Traveler's Check","2007",3537
-"Money Transfer","2007",308302
-"Other","2007",28596
-"Unknown/Blank","2007",9819
-"Currency Exchange","2007",384
-"Money Order","2008",170657
-"Traveler's Check","2008",3655
-"Money Transfer","2008",316310
-"Other","2008",24065
-"Unknown/Blank","2008",12968
-"Currency Exchange","2008",2181
-"Money Order","2009",153152
-"Traveler's Check","2009",2203
-"Money Transfer","2009",343126
-"Other","2009",23869
-"Unknown/Blank","2009",9563
-"Currency Exchange","2009",1202
-"Money Order","2010",76627
-"Traveler's Check","2010",305
-"Money Transfer","2010",218114
-"Other","2010",8956
-"Unknown/Blank","2010",4409
-"Currency Exchange","2010",496
-"Money Order","2011",0
-"Traveler's Check","2011",0
-"Money Transfer","2011",0
-"Other","2011",0
-"Unknown/Blank","2011",0
-"Currency Exchange","2011",0
-"Money Order","2012",18527
-"Traveler's Check","2012",0
-"Money Transfer","2012",7814
-"Other","2012",3498
-"Unknown/Blank","2012",0
-"Currency Exchange","2012",104
-"Money Order","2013",146122
-"Traveler's Check","2013",40
-"Money Transfer","2013",130367
-"Other","2013",14958
-"Unknown/Blank","2013",0
-"Currency Exchange","2013",2111
-"Money Order","2014",192651
-"Traveler's Check","2014",62
-"Money Transfer","2014",208690
-"Other","2014",40468
-"Unknown/Blank","2014",0
-"Currency Exchange","2014",7152
+"Money Order",1996,0
+"Traveler's Check",1996,0
+"Money Transfer",1996,0
+"Other",1996,0
+"Unknown/Blank",1996,0
+"Currency Exchange",1996,0
+"Money Order",1997,0
+"Traveler's Check",1997,0
+"Money Transfer",1997,0
+"Other",1997,0
+"Unknown/Blank",1997,0
+"Currency Exchange",1997,0
+"Money Order",1998,0
+"Traveler's Check",1998,0
+"Money Transfer",1998,0
+"Other",1998,0
+"Unknown/Blank",1998,0
+"Currency Exchange",1998,0
+"Money Order",1999,0
+"Traveler's Check",1999,0
+"Money Transfer",1999,0
+"Other",1999,0
+"Unknown/Blank",1999,0
+"Currency Exchange",1999,0
+"Money Order",2000,0
+"Traveler's Check",2000,0
+"Money Transfer",2000,0
+"Other",2000,0
+"Unknown/Blank",2000,0
+"Currency Exchange",2000,0
+"Money Order",2001,0
+"Traveler's Check",2001,0
+"Money Transfer",2001,0
+"Other",2001,0
+"Unknown/Blank",2001,0
+"Currency Exchange",2001,0
+"Money Order",2002,549
+"Traveler's Check",2002,49
+"Money Transfer",2002,4769
+"Other",2002,179
+"Unknown/Blank",2002,223
+"Currency Exchange",2002,0
+"Money Order",2003,70024
+"Traveler's Check",2003,1149
+"Money Transfer",2003,129655
+"Other",2003,5118
+"Unknown/Blank",2003,4337
+"Currency Exchange",2003,0
+"Money Order",2004,90954
+"Traveler's Check",2004,1419
+"Money Transfer",2004,183728
+"Other",2004,15931
+"Unknown/Blank",2004,5016
+"Currency Exchange",2004,0
+"Money Order",2005,116196
+"Traveler's Check",2005,1183
+"Money Transfer",2005,232717
+"Other",2005,28970
+"Unknown/Blank",2005,5526
+"Currency Exchange",2005,0
+"Money Order",2006,172470
+"Traveler's Check",2006,2192
+"Money Transfer",2006,289722
+"Other",2006,26445
+"Unknown/Blank",2006,7318
+"Currency Exchange",2006,0
+"Money Order",2007,233880
+"Traveler's Check",2007,3537
+"Money Transfer",2007,308302
+"Other",2007,28596
+"Unknown/Blank",2007,9819
+"Currency Exchange",2007,384
+"Money Order",2008,170657
+"Traveler's Check",2008,3655
+"Money Transfer",2008,316310
+"Other",2008,24065
+"Unknown/Blank",2008,12968
+"Currency Exchange",2008,2181
+"Money Order",2009,153152
+"Traveler's Check",2009,2203
+"Money Transfer",2009,343126
+"Other",2009,23869
+"Unknown/Blank",2009,9563
+"Currency Exchange",2009,1202
+"Money Order",2010,76627
+"Traveler's Check",2010,305
+"Money Transfer",2010,218114
+"Other",2010,8956
+"Unknown/Blank",2010,4409
+"Currency Exchange",2010,496
+"Money Order",2011,0
+"Traveler's Check",2011,0
+"Money Transfer",2011,0
+"Other",2011,0
+"Unknown/Blank",2011,0
+"Currency Exchange",2011,0

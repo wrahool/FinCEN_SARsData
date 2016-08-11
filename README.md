@@ -23,7 +23,7 @@ The industry look-up key is as follows:
  - SF - Securities/Futures
  - O -  Other
 
-As of now we are aware that the post-2012 Depository Institutions data isn't complete. Records filed under the following regulatory bodies, for the years 2014 and 2015, couldn't be archived owing to a number of system errors that we encountered during the process.
+As of now we are aware that this archive isn't complete. The data for the years 2010-2011 could not be gathered for any of the industries, because the data sources were corrupted. Moreover, the data for post-2012 Depository Institutions is also not complete: records filed under the following regulatory bodies, for the years 2014 and 2015, couldn't be collected owing to a number of system errors that we encountered during the process.
 
  - the CFTC
  - the FHFA

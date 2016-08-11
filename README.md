@@ -1,6 +1,6 @@
 # FinCEN_SARsData
 
-This is a work-in-progress. This repository tries to aggregate all the publicly available FinCEN (http://www.fincen.gov) data on suspicious financial activity in one, more accessible place.
+This is a work-in-progress. This repository tries to aggregate all the publicly available FinCEN (http://www.fincen.gov) data on suspicious activity reports (SARs) in a single, more accessible place.
 
 ## Data
 
@@ -21,7 +21,7 @@ The industry look-up key is as follows:
  - SF - Securities/Futures
  - O -  Other
 
-As of now we are aware that the post-2012 Depository Institutes data isn't complete.
+As of now we are aware that the post-2012 Depository Institutes data isn't complete. [can you list here where there is missing data?]
 
 ## Contributors
 
@@ -30,4 +30,4 @@ As of now we are aware that the post-2012 Depository Institutes data isn't compl
 
 ## License
 
-To the extent any new intellectual property rights have been created, the Berkman Klein Center for Internet & Society at Harvard University is the rights holder and these works are licensed under the Creative Commons Attribution 4.0 International Public License license (https://creativecommons.org/licenses/by/4.0/).
+To the extent any intellectual property rights have been created, the Berkman Klein Center for Internet & Society at Harvard University is the rights holder and these works are licensed under the Creative Commons Attribution 4.0 International Public License license (https://creativecommons.org/licenses/by/4.0/).

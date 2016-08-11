@@ -21,7 +21,8 @@ The industry look-up key is as follows:
  - SF - Securities/Futures
  - O -  Other
 
-As of now we are aware that the post-2012 Depository Institutions data isn't complete. [can you list here where there is missing data?]
+As of now we are aware that the post-2012 Depository Institutions data isn't complete. The data pertaining to some of the regulatory bodies particularly, the CFTC, the	FHFA, and the	OCC, for the years 2014 and 2015, was too large to be downloaded.
+
 
 ## Contributors
 

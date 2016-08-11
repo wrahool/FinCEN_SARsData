@@ -21,7 +21,7 @@ The industry look-up key is as follows:
  - SF - Securities/Futures
  - O -  Other
 
-As of now we are aware that the post-2012 Depository Institutes data isn't complete. [can you list here where there is missing data?]
+As of now we are aware that the post-2012 Depository Institutions data isn't complete. [can you list here where there is missing data?]
 
 ## Contributors
 
